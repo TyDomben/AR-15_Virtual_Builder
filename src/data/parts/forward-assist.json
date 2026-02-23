@@ -43,5 +43,110 @@
       "finish": "phosphate",
       "type": "standard"
     }
+  },
+  {
+    "id": "dd-forward-assist",
+    "slot_id": "forward-assist",
+    "name": "Forward Assist Assembly",
+    "brand": "Daniel Defense",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "steel",
+      "finish": "phosphate",
+      "type": "standard"
+    }
+  },
+  {
+    "id": "cmmg-forward-assist",
+    "slot_id": "forward-assist",
+    "name": "Forward Assist Assembly",
+    "brand": "CMMG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "steel",
+      "finish": "phosphate",
+      "type": "standard"
+    }
+  },
+  {
+    "id": "larue-forward-assist",
+    "slot_id": "forward-assist",
+    "name": "Forward Assist Assembly",
+    "brand": "LaRue Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "steel",
+      "finish": "phosphate",
+      "type": "standard"
+    }
+  },
+  {
+    "id": "spikes-forward-assist",
+    "slot_id": "forward-assist",
+    "name": "Forward Assist Assembly",
+    "brand": "Spike's Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "steel",
+      "finish": "phosphate",
+      "type": "standard"
+    }
+  },
+  {
+    "id": "phase5-forward-assist",
+    "slot_id": "forward-assist",
+    "name": "Extended Forward Assist",
+    "brand": "Phase 5 Weapon Systems",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "steel",
+      "finish": "nitride",
+      "type": "extended"
+    }
+  },
+  {
+    "id": "windham-forward-assist",
+    "slot_id": "forward-assist",
+    "name": "Forward Assist Assembly",
+    "brand": "Windham Weaponry",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "steel",
+      "finish": "phosphate",
+      "type": "standard"
+    }
+  },
+  {
+    "id": "sr-forward-assist",
+    "slot_id": "forward-assist",
+    "name": "Forward Assist Assembly",
+    "brand": "Stag Arms",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "steel",
+      "finish": "phosphate",
+      "type": "standard"
+    }
   }
 ]

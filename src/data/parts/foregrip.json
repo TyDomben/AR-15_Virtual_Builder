@@ -88,5 +88,65 @@
       "mount_type": "Picatinny",
       "material": "polymer"
     }
+  },
+  {
+    "id": "magpul-mvg-picatinny",
+    "slot_id": "foregrip",
+    "name": "MVG Vertical Foregrip (Picatinny)",
+    "brand": "Magpul",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "vertical",
+      "mount_type": "Picatinny",
+      "material": "polymer"
+    }
+  },
+  {
+    "id": "magpul-angled-mlok",
+    "slot_id": "foregrip",
+    "name": "M-LOK AFG (Angled Foregrip)",
+    "brand": "Magpul",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "angled",
+      "mount_type": "M-LOK",
+      "material": "polymer"
+    }
+  },
+  {
+    "id": "griffin-compact-vfg",
+    "slot_id": "foregrip",
+    "name": "M-LOK Compact Vertical Foregrip",
+    "brand": "Griffin Armament",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "vertical",
+      "mount_type": "M-LOK",
+      "material": "aluminum"
+    }
+  },
+  {
+    "id": "fortis-shift-mlok",
+    "slot_id": "foregrip",
+    "name": "SHIFT Angled Foregrip (M-LOK)",
+    "brand": "Fortis Manufacturing",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "angled",
+      "mount_type": "M-LOK",
+      "material": "aluminum"
+    }
   }
 ]

@@ -3,6 +3,7 @@
  * Renders a kit slot (LPK, buffer tube, BCG) with collapse/expand.
  * When collapsed, shows the kit-level selector.
  * When expanded, shows all sub-component slots.
+ * If childSlots is empty (BCG in v1), always shows collapsed view only.
  */
 import { useBuildStore } from '../store/buildStore';
 import SlotSelector from './SlotSelector';
@@ -10,6 +11,7 @@ import SlotSelector from './SlotSelector';
 export default function KitExpander({ kitSlot, kitParts, childSlots, childPartsMap, unlockedSlots }) {
   const { expandedKits, toggleKitExpansion } = useBuildStore();
   const isExpanded = expandedKits[kitSlot.id] ?? false;
+  const hasChildren = childSlots.length > 0;
 
   return (
     <div className="rounded-lg border border-gray-200 bg-white overflow-hidden">
@@ -23,26 +25,28 @@ export default function KitExpander({ kitSlot, kitParts, childSlots, childPartsM
             KIT
           </span>
         </div>
-        <button
-          className="text-xs text-blue-600 hover:text-blue-800 font-medium transition-colors flex items-center gap-1"
-          onClick={() => toggleKitExpansion(kitSlot.id)}
-        >
-          {isExpanded ? (
-            <>
-              <span>▲</span>
-              <span>Collapse</span>
-            </>
-          ) : (
-            <>
-              <span>▼</span>
-              <span>Expand individual parts</span>
-            </>
-          )}
-        </button>
+        {hasChildren && (
+          <button
+            className="text-xs text-blue-600 hover:text-blue-800 font-medium transition-colors flex items-center gap-1"
+            onClick={() => toggleKitExpansion(kitSlot.id)}
+          >
+            {isExpanded ? (
+              <>
+                <span>▲</span>
+                <span>Collapse</span>
+              </>
+            ) : (
+              <>
+                <span>▼</span>
+                <span>Expand individual parts</span>
+              </>
+            )}
+          </button>
+        )}
       </div>
 
       {/* Collapsed: show kit-level selector */}
-      {!isExpanded && (
+      {(!hasChildren || !isExpanded) && (
         <div className="p-2">
           <SlotSelector
             slot={kitSlot}
@@ -50,14 +54,16 @@ export default function KitExpander({ kitSlot, kitParts, childSlots, childPartsM
             isUnlocked={true}
             isKitChild={false}
           />
-          <p className="text-xs text-gray-400 px-1 mt-1.5">
-            Selecting a kit uses mil-spec defaults for sub-components. Click "Expand" to configure individually.
-          </p>
+          {hasChildren && (
+            <p className="text-xs text-gray-400 px-1 mt-1.5">
+              Selecting a kit uses mil-spec defaults for sub-components. Click "Expand" to configure individually.
+            </p>
+          )}
         </div>
       )}
 
       {/* Expanded: show all sub-component slots */}
-      {isExpanded && (
+      {hasChildren && isExpanded && (
         <div className="p-2 space-y-2">
           <p className="text-xs text-gray-500 italic px-1">
             Individual parts selected. Kit defaults are overridden.

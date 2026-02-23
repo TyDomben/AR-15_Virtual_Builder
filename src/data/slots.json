@@ -70,7 +70,10 @@
     "sort_order": 6,
     "assembly": "lower",
     "description": "Mil-spec vs. commercial diameter drives stock/brace compatibility.",
-    "kit_children": ["buffer", "buffer-spring"]
+    "kit_children": [
+      "buffer",
+      "buffer-spring"
+    ]
   },
   {
     "id": "buffer",
@@ -107,7 +110,13 @@
     "sort_order": 9,
     "assembly": "lower",
     "description": "Trigger, hammer, pins, safety, mag release, bolt catch, takedown pins, detents.",
-    "kit_children": ["trigger", "hammer", "safety-selector", "magazine-release", "bolt-catch"]
+    "kit_children": [
+      "trigger",
+      "hammer",
+      "safety-selector",
+      "magazine-release",
+      "bolt-catch"
+    ]
   },
   {
     "id": "trigger",
@@ -143,7 +152,31 @@
     "parent_kit_id": "lpk",
     "sort_order": 12,
     "assembly": "lower",
-    "description": "Standard 90° / short-throw 45° / ambidextrous. Must fit lower's selector cavity."
+    "description": "Standard 90\u00b0 / short-throw 45\u00b0 / ambidextrous. Must fit lower's selector cavity."
+  },
+  {
+    "id": "magazine-release",
+    "display_name": "Magazine Release",
+    "is_required": true,
+    "is_conditional": false,
+    "is_kit": false,
+    "default_value": null,
+    "parent_kit_id": "lpk",
+    "sort_order": 13,
+    "assembly": "lower",
+    "description": "Standard / extended / ambidextrous magazine release button and catch."
+  },
+  {
+    "id": "bolt-catch",
+    "display_name": "Bolt Catch",
+    "is_required": true,
+    "is_conditional": false,
+    "is_kit": false,
+    "default_value": null,
+    "parent_kit_id": "lpk",
+    "sort_order": 14,
+    "assembly": "lower",
+    "description": "Bolt catch + plunger + spring + roll pin assembly. Enhanced versions available."
   },
   {
     "id": "upper-receiver",
@@ -240,7 +273,7 @@
     "sort_order": 27,
     "assembly": "upper",
     "description": "Must match caliber. MPI/HPT testing are quality attributes, not compatibility attributes.",
-    "kit_children": ["bolt-carrier", "bolt", "firing-pin"]
+    "kit_children": []
   },
   {
     "id": "charging-handle",

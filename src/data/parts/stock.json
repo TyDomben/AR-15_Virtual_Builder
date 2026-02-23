@@ -142,5 +142,41 @@
       "has_qd_socket": false,
       "folding": false
     }
+  },
+  {
+    "id": "magpul-ubr-gen2-stock",
+    "slot_id": "stock",
+    "name": "UBR GEN2 Collapsible Stock (Mil-Spec)",
+    "brand": "Magpul",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "tube_spec": "mil-spec",
+      "adjustable": true,
+      "positions": 6,
+      "material": "polymer",
+      "has_qd_socket": true,
+      "folding": false
+    }
+  },
+  {
+    "id": "mft-battlelink-minimalist",
+    "slot_id": "stock",
+    "name": "Battlelink Minimalist Stock (Mil-Spec)",
+    "brand": "Mission First Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "tube_spec": "mil-spec",
+      "adjustable": true,
+      "positions": 6,
+      "material": "polymer",
+      "has_qd_socket": false,
+      "folding": false
+    }
   }
 ]

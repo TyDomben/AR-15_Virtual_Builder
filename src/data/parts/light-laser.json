@@ -78,5 +78,85 @@
       "lumens": 500,
       "battery": "CR123A"
     }
+  },
+  {
+    "id": "inforce-wml-mlok",
+    "slot_id": "light-laser",
+    "name": "WML White Gen 3 (M-LOK)",
+    "brand": "Inforce",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "light",
+      "mount_type": "M-LOK",
+      "lumens": 700,
+      "battery": "CR123A"
+    }
+  },
+  {
+    "id": "streamlight-hlx-mlok",
+    "slot_id": "light-laser",
+    "name": "ProTac Rail Mount HL-X (M-LOK)",
+    "brand": "Streamlight",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "light",
+      "mount_type": "M-LOK",
+      "lumens": 1000,
+      "battery": "CR123A"
+    }
+  },
+  {
+    "id": "arisaka-300-mlok",
+    "slot_id": "light-laser",
+    "name": "300 Series Weapon Light (M-LOK)",
+    "brand": "Arisaka Defense",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "light",
+      "mount_type": "M-LOK",
+      "lumens": 1000,
+      "battery": "CR123A"
+    }
+  },
+  {
+    "id": "surefire-x300u-picatinny",
+    "slot_id": "light-laser",
+    "name": "X300 Ultra (Picatinny/TLR Rail)",
+    "brand": "SureFire",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "light",
+      "mount_type": "Picatinny",
+      "lumens": 1000,
+      "battery": "CR123A"
+    }
+  },
+  {
+    "id": "elzetta-mlok-zfl",
+    "slot_id": "light-laser",
+    "name": "BRAVO ZFL M-LOK Weapon Light",
+    "brand": "Elzetta",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "light",
+      "mount_type": "M-LOK",
+      "lumens": 415,
+      "battery": "CR123A"
+    }
   }
 ]

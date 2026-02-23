@@ -43,5 +43,110 @@
       "finish": "phosphate",
       "pin_diameter": "0.154"
     }
+  },
+  {
+    "id": "aero-hammer",
+    "slot_id": "hammer",
+    "name": "Mil-Spec Hammer",
+    "brand": "Aero Precision",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "tool steel",
+      "finish": "phosphate",
+      "pin_diameter": "0.154"
+    }
+  },
+  {
+    "id": "bcm-hammer",
+    "slot_id": "hammer",
+    "name": "PNT Hammer",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "tool steel",
+      "finish": "nickel-boron",
+      "pin_diameter": "0.154"
+    }
+  },
+  {
+    "id": "elftmann-hammer",
+    "slot_id": "hammer",
+    "name": "SE Hammer",
+    "brand": "Elftmann Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "tool steel",
+      "finish": "nitride",
+      "pin_diameter": "0.154"
+    }
+  },
+  {
+    "id": "timney-hammer",
+    "slot_id": "hammer",
+    "name": "Calvin Elite Hammer",
+    "brand": "Timney",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "tool steel",
+      "finish": "phosphate",
+      "pin_diameter": "0.154"
+    }
+  },
+  {
+    "id": "wilson-combat-hammer",
+    "slot_id": "hammer",
+    "name": "Tactical Trigger Unit Hammer",
+    "brand": "Wilson Combat",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "tool steel",
+      "finish": "phosphate",
+      "pin_diameter": "0.154"
+    }
+  },
+  {
+    "id": "hiperfire-hammer",
+    "slot_id": "hammer",
+    "name": "EDT Hammer",
+    "brand": "Hiperfire",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "tool steel",
+      "finish": "phosphate",
+      "pin_diameter": "0.154"
+    }
+  },
+  {
+    "id": "rise-hammer",
+    "slot_id": "hammer",
+    "name": "RA-140 SST Hammer",
+    "brand": "RISE Armament",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "tool steel",
+      "finish": "nitride",
+      "pin_diameter": "0.154"
+    }
   }
 ]

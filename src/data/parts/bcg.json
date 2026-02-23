@@ -169,5 +169,24 @@
       "hpt_tested": false,
       "gas_key_staked": true
     }
+  },
+  {
+    "id": "dd-bcg-300blk",
+    "slot_id": "bcg",
+    "name": "BCG (.300 BLK)",
+    "brand": "Daniel Defense",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "caliber": ".300 BLK",
+      "carrier_type": "full-auto",
+      "material": "Carpenter 158 steel",
+      "finish": "phosphate",
+      "mpi_tested": true,
+      "hpt_tested": true,
+      "gas_key_staked": true
+    }
   }
 ]

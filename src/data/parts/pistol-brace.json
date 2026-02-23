@@ -83,5 +83,90 @@
       "material": "aluminum",
       "has_qd_socket": false
     }
+  },
+  {
+    "id": "sb-tactical-sba3-od",
+    "slot_id": "pistol-brace",
+    "name": "SBA3 Adjustable Pistol Brace (OD Green)",
+    "brand": "SB Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "tube_spec": "mil-spec",
+      "adjustable": true,
+      "positions": 5,
+      "material": "polymer",
+      "has_qd_socket": false
+    }
+  },
+  {
+    "id": "sb-tactical-fs1913",
+    "slot_id": "pistol-brace",
+    "name": "FS1913 Pistol Brace (M16 Folding)",
+    "brand": "SB Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "tube_spec": "pistol",
+      "adjustable": false,
+      "positions": 1,
+      "material": "polymer",
+      "has_qd_socket": false
+    }
+  },
+  {
+    "id": "shockwave-raptor-2",
+    "slot_id": "pistol-brace",
+    "name": "Raptor II Pistol Stabilizer Brace",
+    "brand": "Shockwave Technologies",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "tube_spec": "mil-spec",
+      "adjustable": false,
+      "positions": 1,
+      "material": "polymer",
+      "has_qd_socket": false
+    }
+  },
+  {
+    "id": "gear-head-works-tailhook",
+    "slot_id": "pistol-brace",
+    "name": "Tailhook Mod 2 Pistol Brace",
+    "brand": "Gear Head Works",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "tube_spec": "mil-spec",
+      "adjustable": true,
+      "positions": 5,
+      "material": "polymer",
+      "has_qd_socket": false
+    }
+  },
+  {
+    "id": "kak-brace",
+    "slot_id": "pistol-brace",
+    "name": "Shockwave Blade Pistol Stabilizer",
+    "brand": "KAK Industry",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "tube_spec": "pistol",
+      "adjustable": false,
+      "positions": 1,
+      "material": "polymer",
+      "has_qd_socket": false
+    }
   }
 ]

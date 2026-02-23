@@ -12,7 +12,10 @@
       "type": "standard",
       "coils": 37,
       "material": "chrome silicon steel",
-      "compatible_lengths": ["carbine", "pistol"]
+      "compatible_lengths": [
+        "carbine",
+        "pistol"
+      ]
     }
   },
   {
@@ -28,13 +31,17 @@
       "type": "extra-power",
       "coils": 40,
       "material": "chrome silicon steel",
-      "compatible_lengths": ["carbine", "pistol", "rifle"]
+      "compatible_lengths": [
+        "carbine",
+        "pistol",
+        "rifle"
+      ]
     }
   },
   {
     "id": "sprinco-blue-spring",
     "slot_id": "buffer-spring",
-    "name": "AR-15 Buffer Spring (Blue — Standard Power)",
+    "name": "AR-15 Buffer Spring (Blue \u2014 Standard Power)",
     "brand": "Sprinco",
     "image_url": null,
     "is_bundle": false,
@@ -44,13 +51,17 @@
       "type": "standard",
       "coils": 39,
       "material": "chrome silicon steel",
-      "compatible_lengths": ["carbine", "pistol", "rifle"]
+      "compatible_lengths": [
+        "carbine",
+        "pistol",
+        "rifle"
+      ]
     }
   },
   {
     "id": "sprinco-silver-spring",
     "slot_id": "buffer-spring",
-    "name": "AR-15 Buffer Spring (Silver — Enhanced)",
+    "name": "AR-15 Buffer Spring (Silver \u2014 Enhanced)",
     "brand": "Sprinco",
     "image_url": null,
     "is_bundle": false,
@@ -60,7 +71,11 @@
       "type": "enhanced",
       "coils": 42,
       "material": "chrome silicon steel",
-      "compatible_lengths": ["carbine", "pistol", "rifle"]
+      "compatible_lengths": [
+        "carbine",
+        "pistol",
+        "rifle"
+      ]
     }
   },
   {
@@ -76,7 +91,107 @@
       "type": "standard",
       "coils": 37,
       "material": "chrome silicon steel",
-      "compatible_lengths": ["carbine", "pistol"]
+      "compatible_lengths": [
+        "carbine",
+        "pistol"
+      ]
+    }
+  },
+  {
+    "id": "aero-buffer-spring",
+    "slot_id": "buffer-spring",
+    "name": "Carbine Buffer Spring",
+    "brand": "Aero Precision",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "standard",
+      "coils": 37,
+      "material": "chrome silicon steel",
+      "compatible_lengths": [
+        "carbine",
+        "pistol"
+      ]
+    }
+  },
+  {
+    "id": "wolff-reduced-power-spring",
+    "slot_id": "buffer-spring",
+    "name": "Reduced Power Buffer Spring",
+    "brand": "Wolff Gunsprings",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "reduced-power",
+      "coils": 34,
+      "material": "chrome silicon steel",
+      "compatible_lengths": [
+        "carbine",
+        "pistol"
+      ]
+    }
+  },
+  {
+    "id": "jp-cs-spring",
+    "slot_id": "buffer-spring",
+    "name": "Competition Spring (Reduced Power)",
+    "brand": "JP Enterprises",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "reduced-power",
+      "coils": 35,
+      "material": "chrome silicon steel",
+      "compatible_lengths": [
+        "carbine",
+        "pistol",
+        "rifle"
+      ]
+    }
+  },
+  {
+    "id": "flatwire-buffer-spring",
+    "slot_id": "buffer-spring",
+    "name": "Flat Wire Buffer Spring",
+    "brand": "Sprinco",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "flat-wire",
+      "coils": 36,
+      "material": "stainless flat wire",
+      "compatible_lengths": [
+        "carbine",
+        "pistol",
+        "rifle"
+      ]
+    }
+  },
+  {
+    "id": "dd-buffer-spring",
+    "slot_id": "buffer-spring",
+    "name": "Carbine Buffer Spring",
+    "brand": "Daniel Defense",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "standard",
+      "coils": 37,
+      "material": "chrome silicon steel",
+      "compatible_lengths": [
+        "carbine",
+        "pistol"
+      ]
     }
   }
 ]

@@ -126,5 +126,37 @@
       "texture": "rubber",
       "fits_mil_spec": true
     }
+  },
+  {
+    "id": "magpul-moe-k-grip",
+    "slot_id": "pistol-grip",
+    "name": "MOE-K Grip (Low-Profile)",
+    "brand": "Magpul",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "angle": "vertical",
+      "material": "polymer",
+      "texture": "textured",
+      "fits_mil_spec": true
+    }
+  },
+  {
+    "id": "bcm-mod3-grip",
+    "slot_id": "pistol-grip",
+    "name": "Gunfighter Grip Mod 3 (Short)",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "angle": "standard",
+      "material": "polymer",
+      "texture": "textured",
+      "fits_mil_spec": true
+    }
   }
 ]

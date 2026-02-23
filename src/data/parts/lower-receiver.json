@@ -169,5 +169,24 @@
       "selector_type": "ambidextrous",
       "caliber_marked": "Multi"
     }
+  },
+  {
+    "id": "spikes-stripped-lower",
+    "slot_id": "lower-receiver",
+    "name": "Stripped Lower Receiver (Spider Logo)",
+    "brand": "Spike's Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "stripped",
+      "material": "7075-T6 aluminum",
+      "finish": "Hardcoat anodized",
+      "trigger_hammer_pin_diameter": "0.154",
+      "integral_trigger_guard": false,
+      "selector_type": "standard",
+      "caliber_marked": "Multi"
+    }
   }
 ]

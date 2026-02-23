@@ -78,5 +78,85 @@
       "material": "steel",
       "finish": "phosphate"
     }
+  },
+  {
+    "id": "larue-ambi-safety",
+    "slot_id": "safety-selector",
+    "name": "Ambidextrous Safety Selector 45\u00b0",
+    "brand": "LaRue Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "ambidextrous",
+      "throw_degrees": 45,
+      "material": "aluminum",
+      "finish": "anodized"
+    }
+  },
+  {
+    "id": "seekins-ambi-safety",
+    "slot_id": "safety-selector",
+    "name": "ASA Ambidextrous Safety Selector",
+    "brand": "Seekins Precision",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "ambidextrous",
+      "throw_degrees": 45,
+      "material": "aluminum",
+      "finish": "anodized"
+    }
+  },
+  {
+    "id": "griffin-ambi-safety",
+    "slot_id": "safety-selector",
+    "name": "Ambi Safety Selector 45\u00b0",
+    "brand": "Griffin Armament",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "ambidextrous",
+      "throw_degrees": 45,
+      "material": "aluminum",
+      "finish": "anodized"
+    }
+  },
+  {
+    "id": "aero-ambi-safety",
+    "slot_id": "safety-selector",
+    "name": "Ambidextrous Safety Selector",
+    "brand": "Aero Precision",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "ambidextrous",
+      "throw_degrees": 45,
+      "material": "aluminum",
+      "finish": "anodized"
+    }
+  },
+  {
+    "id": "colt-safety",
+    "slot_id": "safety-selector",
+    "name": "Mil-Spec Safety Selector",
+    "brand": "Colt",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "standard",
+      "throw_degrees": 90,
+      "material": "steel",
+      "finish": "phosphate"
+    }
   }
 ]

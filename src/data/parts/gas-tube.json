@@ -133,5 +133,20 @@
       "material": "stainless steel",
       "finish": "stainless"
     }
+  },
+  {
+    "id": "larue-midlength-gas-tube",
+    "slot_id": "gas-tube",
+    "name": "Mid-Length Gas Tube",
+    "brand": "LaRue Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "length": "mid-length",
+      "material": "stainless steel",
+      "finish": "stainless"
+    }
   }
 ]

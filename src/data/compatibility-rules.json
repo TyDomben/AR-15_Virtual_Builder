@@ -188,7 +188,7 @@
     "slot_b": "barrel",
     "attribute_b": "gas_system",
     "message_short": "Buffer weight may be suboptimal for this gas system",
-    "message_long": "Your buffer weight may not be ideally matched to your barrel's gas system. Pistol/carbine gas systems typically run best with lighter carbine buffers (3oz). Rifle-length gas systems benefit from heavier H2/H3 buffers. This may cause reliability issues — particularly over-cycling.",
+    "message_long": "Your buffer weight may not be ideally matched to your barrel's gas system. Pistol/carbine gas systems typically run best with lighter carbine buffers (3oz). Rifle-length gas systems benefit from heavier H2/H3 buffers. This may cause reliability issues \u2014 particularly over-cycling.",
     "atf_source_url": null
   },
   {
@@ -199,7 +199,7 @@
     "operator": "within_one_inch",
     "slot_b": "barrel",
     "attribute_b": "length_inches",
-    "message_short": "Handguard length very close to barrel — installation may be difficult",
+    "message_short": "Handguard length very close to barrel \u2014 installation may be difficult",
     "message_long": "Your handguard is within 1\" of your barrel length. While technically compatible, this can make installation difficult and may leave very little clearance around the muzzle area.",
     "atf_source_url": null
   },
@@ -211,7 +211,7 @@
     "operator": "suppressor_buffer_warning",
     "slot_b": "buffer",
     "attribute_b": "type",
-    "message_short": "Suppressor use — consider heavier buffer (H2/H3)",
+    "message_short": "Suppressor use \u2014 consider heavier buffer (H2/H3)",
     "message_long": "Suppressors increase backpressure significantly, causing over-cycling. Consider upgrading to a heavier H2 (4.6oz) or H3 (5.4oz) buffer, and ideally an adjustable gas block, to maintain reliable operation with a suppressor.",
     "atf_source_url": null
   },
@@ -220,9 +220,9 @@
     "rule_type": "soft",
     "slot_a": "charging-handle",
     "attribute_a": "oversized_latch",
-    "operator": "eq",
-    "slot_b": "charging-handle",
-    "attribute_b": "oversized_latch",
+    "operator": "eq_true",
+    "slot_b": null,
+    "attribute_b": null,
     "message_short": "Oversized charging handle latch may conflict with low-mounted optics",
     "message_long": "Your charging handle has an oversized latch. When used with a large, low-mounted optic, the latch may contact the objective bell or mount. Verify clearance before finalizing your optic setup.",
     "atf_source_url": null
@@ -236,8 +236,8 @@
     "slot_b": "stock",
     "attribute_b": "_selected",
     "threshold": 16,
-    "message_short": "⚠️ SBR Configuration Detected",
-    "message_long": "This configuration meets the ATF definition of a Short Barreled Rifle (SBR) — a rifle with a barrel under 16\" in length. SBRs are NFA (National Firearms Act) items regulated under 26 USC § 5845. Manufacturing or possessing an SBR without prior ATF approval and payment of the $200 tax stamp (Form 1 or Form 4) is a federal felony. This tool does not provide legal advice. Consult a qualified firearms attorney before building.",
+    "message_short": "\u26a0\ufe0f SBR Configuration Detected",
+    "message_long": "This configuration meets the ATF definition of a Short Barreled Rifle (SBR) \u2014 a rifle with a barrel under 16\" in length. SBRs are NFA (National Firearms Act) items regulated under 26 USC \u00a7 5845. Manufacturing or possessing an SBR without prior ATF approval and payment of the $200 tax stamp (Form 1 or Form 4) is a federal felony. This tool does not provide legal advice. Consult a qualified firearms attorney before building.",
     "atf_source_url": "https://www.atf.gov/firearms/short-barrel-rifles"
   },
   {
@@ -249,7 +249,7 @@
     "slot_b": "pistol-brace",
     "attribute_b": "_selected",
     "threshold": 16,
-    "message_short": "⚠️ Pistol Brace Configuration — Rules in Flux",
+    "message_short": "\u26a0\ufe0f Pistol Brace Configuration \u2014 Rules in Flux",
     "message_long": "This configuration uses a barrel under 16\" with a pistol brace. Pistol brace regulations have been subject to ongoing ATF rulemaking and federal court challenges. The legal status of pistol braces has changed multiple times. Verify current ATF rules and applicable state law before building or possessing this configuration. This tool does not provide legal advice.",
     "atf_source_url": "https://www.atf.gov/firearms/docs/ruling/2023-1/download"
   },
@@ -262,8 +262,8 @@
     "slot_b": null,
     "attribute_b": null,
     "threshold": null,
-    "message_short": "⚠️ NFA Suppressor Detected",
-    "message_long": "Your build includes a suppressor (silencer). Suppressors are regulated as NFA items under 26 USC § 5845(a)(7). Manufacturing or possessing a suppressor requires prior ATF approval via Form 1 (make) or Form 4 (transfer), plus a $200 tax stamp. Suppressors are prohibited in some states. This tool does not provide legal advice. Consult a qualified firearms attorney and verify your state's laws before purchasing or building a suppressor.",
+    "message_short": "\u26a0\ufe0f NFA Suppressor Detected",
+    "message_long": "Your build includes a suppressor (silencer). Suppressors are regulated as NFA items under 26 USC \u00a7 5845(a)(7). Manufacturing or possessing a suppressor requires prior ATF approval via Form 1 (make) or Form 4 (transfer), plus a $200 tax stamp. Suppressors are prohibited in some states. This tool does not provide legal advice. Consult a qualified firearms attorney and verify your state's laws before purchasing or building a suppressor.",
     "atf_source_url": "https://www.atf.gov/firearms/silencers-suppressors"
   },
   {
@@ -275,7 +275,7 @@
     "slot_b": null,
     "attribute_b": null,
     "threshold": null,
-    "message_short": "ℹ️ BCG gas key may not be staked",
+    "message_short": "\u2139\ufe0f BCG gas key may not be staked",
     "message_long": "Your BCG's gas key should be properly staked to the carrier for long-term reliability. An unstaked gas key can back out under fire, causing malfunctions. Verify staking before use.",
     "atf_source_url": null
   },
@@ -288,7 +288,7 @@
     "slot_b": "barrel",
     "attribute_b": "caliber",
     "threshold": null,
-    "message_short": "ℹ️ Twist rate note for bullet weight selection",
+    "message_short": "\u2139\ufe0f Twist rate note for bullet weight selection",
     "message_long": "Barrel twist rate affects optimal bullet weight. 1:7 twist stabilizes heavier 62-77gr projectiles. 1:8 twist is versatile across 55-77gr. 1:9 twist is best for lighter 55-62gr bullets. Match your ammunition to your barrel's twist rate for best accuracy.",
     "atf_source_url": null
   }

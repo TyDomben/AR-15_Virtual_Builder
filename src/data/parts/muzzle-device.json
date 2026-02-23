@@ -151,5 +151,22 @@
       "finish": "nitride",
       "nfa_item": false
     }
+  },
+  {
+    "id": "surefire-socom-1-2x28",
+    "slot_id": "muzzle-device",
+    "name": "SOCOM762-RC2 Suppressor (NFA, 1/2x28)",
+    "brand": "SureFire",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "suppressor",
+      "thread_pitch": "1/2x28",
+      "material": "stainless steel / Inconel",
+      "finish": "Cerakote",
+      "nfa_item": true
+    }
   }
 ]

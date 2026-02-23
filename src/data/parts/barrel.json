@@ -240,5 +240,27 @@
       "material": "416R stainless",
       "twist_rate": "1:8"
     }
+  },
+  {
+    "id": "faxon-7-5-pistol-556",
+    "slot_id": "barrel",
+    "name": "7.5\" Pistol-Length 5.56 NATO Barrel",
+    "brand": "Faxon Firearms",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "caliber": "5.56 NATO",
+      "length_inches": 7.5,
+      "gas_system": "pistol",
+      "gas_block_journal": "0.625",
+      "muzzle_thread": "1/2x28",
+      "threaded": true,
+      "comes_with_muzzle_device": false,
+      "profile": "pencil",
+      "material": "4150 CMV",
+      "twist_rate": "1:8"
+    }
   }
 ]

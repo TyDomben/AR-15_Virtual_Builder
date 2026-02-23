@@ -58,5 +58,95 @@
       "enhanced": true,
       "fits_mil_spec": true
     }
+  },
+  {
+    "id": "dd-trigger-guard",
+    "slot_id": "trigger-guard",
+    "name": "Enhanced Trigger Guard",
+    "brand": "Daniel Defense",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "aluminum",
+      "enhanced": true,
+      "fits_mil_spec": true
+    }
+  },
+  {
+    "id": "larue-trigger-guard",
+    "slot_id": "trigger-guard",
+    "name": "Trigger Guard",
+    "brand": "LaRue Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "polymer",
+      "enhanced": true,
+      "fits_mil_spec": true
+    }
+  },
+  {
+    "id": "spikes-trigger-guard",
+    "slot_id": "trigger-guard",
+    "name": "Enhanced Trigger Guard",
+    "brand": "Spike's Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "polymer",
+      "enhanced": true,
+      "fits_mil_spec": true
+    }
+  },
+  {
+    "id": "radian-trigger-guard",
+    "slot_id": "trigger-guard",
+    "name": "Talon Trigger Guard",
+    "brand": "Radian Weapons",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "aluminum",
+      "enhanced": true,
+      "fits_mil_spec": true
+    }
+  },
+  {
+    "id": "badger-trigger-guard",
+    "slot_id": "trigger-guard",
+    "name": "Badger Enhanced Trigger Guard",
+    "brand": "Badger Ordnance",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "aluminum",
+      "enhanced": true,
+      "fits_mil_spec": true
+    }
+  },
+  {
+    "id": "fortis-trigger-guard",
+    "slot_id": "trigger-guard",
+    "name": "Clutch Trigger Guard",
+    "brand": "Fortis Manufacturing",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "aluminum",
+      "enhanced": true,
+      "fits_mil_spec": true
+    }
   }
 ]

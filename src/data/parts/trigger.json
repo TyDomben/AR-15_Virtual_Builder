@@ -134,5 +134,39 @@
       "matched_hammer_included": true,
       "material": "tool steel"
     }
+  },
+  {
+    "id": "wilson-combat-trigger",
+    "slot_id": "trigger",
+    "name": "TTU Match Grade Trigger",
+    "brand": "Wilson Combat",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "single-stage",
+      "pull_weight_lbs": 3.5,
+      "pin_diameter": "0.154",
+      "matched_hammer_included": true,
+      "material": "tool steel"
+    }
+  },
+  {
+    "id": "rise-rave-trigger",
+    "slot_id": "trigger",
+    "name": "RA-140 SST Super Sporting Trigger",
+    "brand": "RISE Armament",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "single-stage",
+      "pull_weight_lbs": 3.5,
+      "pin_diameter": "0.154",
+      "matched_hammer_included": true,
+      "material": "tool steel"
+    }
   }
 ]

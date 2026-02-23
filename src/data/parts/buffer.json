@@ -11,7 +11,10 @@
     "attributes": {
       "weight_oz": 3.0,
       "type": "carbine",
-      "recommended_gas_systems": ["carbine", "mid-length"],
+      "recommended_gas_systems": [
+        "carbine",
+        "mid-length"
+      ],
       "material": "steel"
     }
   },
@@ -27,7 +30,10 @@
     "attributes": {
       "weight_oz": 3.8,
       "type": "H",
-      "recommended_gas_systems": ["mid-length", "carbine"],
+      "recommended_gas_systems": [
+        "mid-length",
+        "carbine"
+      ],
       "material": "steel + tungsten"
     }
   },
@@ -43,7 +49,10 @@
     "attributes": {
       "weight_oz": 4.6,
       "type": "H2",
-      "recommended_gas_systems": ["mid-length", "rifle"],
+      "recommended_gas_systems": [
+        "mid-length",
+        "rifle"
+      ],
       "material": "steel + tungsten"
     }
   },
@@ -59,7 +68,9 @@
     "attributes": {
       "weight_oz": 5.4,
       "type": "H3",
-      "recommended_gas_systems": ["rifle"],
+      "recommended_gas_systems": [
+        "rifle"
+      ],
       "material": "steel + tungsten"
     }
   },
@@ -75,14 +86,17 @@
     "attributes": {
       "weight_oz": 5.0,
       "type": "hydraulic",
-      "recommended_gas_systems": ["mid-length", "rifle"],
+      "recommended_gas_systems": [
+        "mid-length",
+        "rifle"
+      ],
       "material": "steel + hydraulic"
     }
   },
   {
     "id": "jp-silent-captured-spring",
     "slot_id": "buffer",
-    "name": "Silent Captured Spring (SCS) — Standard Weight",
+    "name": "Silent Captured Spring (SCS) \u2014 Standard Weight",
     "brand": "JP Enterprises",
     "image_url": null,
     "is_bundle": false,
@@ -91,7 +105,10 @@
     "attributes": {
       "weight_oz": 4.5,
       "type": "captured",
-      "recommended_gas_systems": ["carbine", "mid-length"],
+      "recommended_gas_systems": [
+        "carbine",
+        "mid-length"
+      ],
       "material": "steel"
     }
   },
@@ -107,8 +124,67 @@
     "attributes": {
       "weight_oz": 3.0,
       "type": "pistol",
-      "recommended_gas_systems": ["pistol", "carbine"],
+      "recommended_gas_systems": [
+        "pistol",
+        "carbine"
+      ],
       "material": "steel"
+    }
+  },
+  {
+    "id": "bcm-h-buffer",
+    "slot_id": "buffer",
+    "name": "H Buffer (3.8oz)",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "weight_oz": 3.8,
+      "type": "H",
+      "recommended_gas_systems": [
+        "mid-length",
+        "carbine"
+      ],
+      "material": "steel + tungsten"
+    }
+  },
+  {
+    "id": "spikes-carbine-buffer",
+    "slot_id": "buffer",
+    "name": "Carbine Buffer (3oz)",
+    "brand": "Spike's Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "weight_oz": 3.0,
+      "type": "carbine",
+      "recommended_gas_systems": [
+        "carbine",
+        "mid-length"
+      ],
+      "material": "steel"
+    }
+  },
+  {
+    "id": "jp-heavy-buffer",
+    "slot_id": "buffer",
+    "name": "JP Enterprises Adjustable Weight Buffer",
+    "brand": "JP Enterprises",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "weight_oz": 5.0,
+      "type": "H3",
+      "recommended_gas_systems": [
+        "rifle"
+      ],
+      "material": "steel + tungsten"
     }
   }
 ]

@@ -46,5 +46,117 @@
       "finish": "phosphate",
       "enhanced": true
     }
+  },
+  {
+    "id": "aero-bolt-catch",
+    "slot_id": "bolt-catch",
+    "name": "Bolt Catch Assembly",
+    "brand": "Aero Precision",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "standard",
+      "material": "steel",
+      "finish": "phosphate",
+      "enhanced": false
+    }
+  },
+  {
+    "id": "dd-bolt-catch",
+    "slot_id": "bolt-catch",
+    "name": "Bolt Catch Assembly",
+    "brand": "Daniel Defense",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "standard",
+      "material": "steel",
+      "finish": "phosphate",
+      "enhanced": false
+    }
+  },
+  {
+    "id": "cmmg-bolt-catch",
+    "slot_id": "bolt-catch",
+    "name": "Bolt Catch Assembly",
+    "brand": "CMMG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "standard",
+      "material": "steel",
+      "finish": "phosphate",
+      "enhanced": false
+    }
+  },
+  {
+    "id": "seekins-bolt-catch",
+    "slot_id": "bolt-catch",
+    "name": "Ambidextrous Bolt Catch",
+    "brand": "Seekins Precision",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "ambidextrous",
+      "material": "aluminum",
+      "finish": "anodized",
+      "enhanced": true
+    }
+  },
+  {
+    "id": "radian-bolt-catch",
+    "slot_id": "bolt-catch",
+    "name": "Raptor-LT Bolt Catch",
+    "brand": "Radian Weapons",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "enhanced",
+      "material": "aluminum",
+      "finish": "anodized",
+      "enhanced": true
+    }
+  },
+  {
+    "id": "norgon-ambi-bolt-catch",
+    "slot_id": "bolt-catch",
+    "name": "Ambi-Catch Bolt Catch",
+    "brand": "Norgon",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "ambidextrous",
+      "material": "aluminum",
+      "finish": "anodized",
+      "enhanced": true
+    }
+  },
+  {
+    "id": "spikes-bolt-catch",
+    "slot_id": "bolt-catch",
+    "name": "Bolt Catch Assembly",
+    "brand": "Spike's Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "standard",
+      "material": "steel",
+      "finish": "phosphate",
+      "enhanced": false
+    }
   }
 ]

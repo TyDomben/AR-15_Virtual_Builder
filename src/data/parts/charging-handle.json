@@ -134,5 +134,39 @@
       "finish": "hardcoat anodized",
       "oversized_latch": true
     }
+  },
+  {
+    "id": "rainier-raptor-ch",
+    "slot_id": "charging-handle",
+    "name": "Raptor Ambidextrous Charging Handle (Clone)",
+    "brand": "Rainier Arms",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "latch_size": "large",
+      "ambidextrous": true,
+      "material": "7075-T6 aluminum",
+      "finish": "hardcoat anodized",
+      "oversized_latch": true
+    }
+  },
+  {
+    "id": "badger-c1-ch",
+    "slot_id": "charging-handle",
+    "name": "C1 Charging Handle",
+    "brand": "Badger Ordnance",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "latch_size": "medium",
+      "ambidextrous": false,
+      "material": "7075-T6 aluminum",
+      "finish": "hardcoat anodized",
+      "oversized_latch": false
+    }
   }
 ]

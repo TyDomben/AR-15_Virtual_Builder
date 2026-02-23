@@ -12,7 +12,11 @@
       "caliber": "5.56 NATO",
       "capacity": 30,
       "material": "polymer",
-      "compatible_calibers": ["5.56 NATO", ".223 Wylde", ".223 Rem"]
+      "compatible_calibers": [
+        "5.56 NATO",
+        ".223 Wylde",
+        ".223 Rem"
+      ]
     }
   },
   {
@@ -28,7 +32,11 @@
       "caliber": "5.56 NATO",
       "capacity": 10,
       "material": "polymer",
-      "compatible_calibers": ["5.56 NATO", ".223 Wylde", ".223 Rem"]
+      "compatible_calibers": [
+        "5.56 NATO",
+        ".223 Wylde",
+        ".223 Rem"
+      ]
     }
   },
   {
@@ -44,7 +52,11 @@
       "caliber": "5.56 NATO",
       "capacity": 20,
       "material": "polymer",
-      "compatible_calibers": ["5.56 NATO", ".223 Wylde", ".223 Rem"]
+      "compatible_calibers": [
+        "5.56 NATO",
+        ".223 Wylde",
+        ".223 Rem"
+      ]
     }
   },
   {
@@ -60,7 +72,9 @@
       "caliber": ".300 BLK",
       "capacity": 30,
       "material": "polymer",
-      "compatible_calibers": [".300 BLK"]
+      "compatible_calibers": [
+        ".300 BLK"
+      ]
     }
   },
   {
@@ -76,7 +90,11 @@
       "caliber": "5.56 NATO",
       "capacity": 30,
       "material": "polymer-hybrid",
-      "compatible_calibers": ["5.56 NATO", ".223 Wylde", ".223 Rem"]
+      "compatible_calibers": [
+        "5.56 NATO",
+        ".223 Wylde",
+        ".223 Rem"
+      ]
     }
   },
   {
@@ -92,7 +110,91 @@
       "caliber": "5.56 NATO",
       "capacity": 30,
       "material": "aluminum",
-      "compatible_calibers": ["5.56 NATO", ".223 Wylde", ".223 Rem"]
+      "compatible_calibers": [
+        "5.56 NATO",
+        ".223 Wylde",
+        ".223 Rem"
+      ]
+    }
+  },
+  {
+    "id": "pmag-40-556",
+    "slot_id": "magazine",
+    "name": "PMAG 40 AR/M4 GEN M3 (40-round)",
+    "brand": "Magpul",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "caliber": "5.56 NATO",
+      "capacity": 40,
+      "material": "polymer",
+      "compatible_calibers": [
+        "5.56 NATO",
+        ".223 Wylde",
+        ".223 Rem"
+      ]
+    }
+  },
+  {
+    "id": "colt-steel-30-556",
+    "slot_id": "magazine",
+    "name": "USGI Steel Magazine (30-round)",
+    "brand": "Colt",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "caliber": "5.56 NATO",
+      "capacity": 30,
+      "material": "steel",
+      "compatible_calibers": [
+        "5.56 NATO",
+        ".223 Wylde",
+        ".223 Rem"
+      ]
+    }
+  },
+  {
+    "id": "hexmag-30-556",
+    "slot_id": "magazine",
+    "name": "HexMag 30-Round AR Magazine",
+    "brand": "HexMag",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "caliber": "5.56 NATO",
+      "capacity": 30,
+      "material": "polymer",
+      "compatible_calibers": [
+        "5.56 NATO",
+        ".223 Wylde",
+        ".223 Rem"
+      ]
+    }
+  },
+  {
+    "id": "dd-30-556",
+    "slot_id": "magazine",
+    "name": "DD Enhanced 30-Round Magazine",
+    "brand": "Daniel Defense",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "caliber": "5.56 NATO",
+      "capacity": 30,
+      "material": "polymer",
+      "compatible_calibers": [
+        "5.56 NATO",
+        ".223 Wylde",
+        ".223 Rem"
+      ]
     }
   }
 ]

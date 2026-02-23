@@ -66,5 +66,107 @@
       "includes_grip_screw": true,
       "safety_type": "standard-90"
     }
+  },
+  {
+    "id": "dd-lpk",
+    "slot_id": "lpk",
+    "name": "Lower Parts Kit",
+    "brand": "Daniel Defense",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "trigger_type": "mil-spec",
+      "pin_diameter": "0.154",
+      "includes_trigger_guard": true,
+      "includes_grip_screw": true,
+      "safety_type": "standard-90"
+    }
+  },
+  {
+    "id": "larue-lpk",
+    "slot_id": "lpk",
+    "name": "Lower Parts Kit",
+    "brand": "LaRue Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "trigger_type": "mil-spec",
+      "pin_diameter": "0.154",
+      "includes_trigger_guard": true,
+      "includes_grip_screw": true,
+      "safety_type": "standard-90"
+    }
+  },
+  {
+    "id": "spikes-lpk",
+    "slot_id": "lpk",
+    "name": "Lower Parts Kit",
+    "brand": "Spike's Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "trigger_type": "mil-spec",
+      "pin_diameter": "0.154",
+      "includes_trigger_guard": true,
+      "includes_grip_screw": true,
+      "safety_type": "standard-90"
+    }
+  },
+  {
+    "id": "windham-lpk",
+    "slot_id": "lpk",
+    "name": "Lower Parts Kit",
+    "brand": "Windham Weaponry",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "trigger_type": "mil-spec",
+      "pin_diameter": "0.154",
+      "includes_trigger_guard": true,
+      "includes_grip_screw": true,
+      "safety_type": "standard-90"
+    }
+  },
+  {
+    "id": "palmetto-lpk",
+    "slot_id": "lpk",
+    "name": "Classic Lower Parts Kit",
+    "brand": "Palmetto State Armory",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "trigger_type": "mil-spec",
+      "pin_diameter": "0.154",
+      "includes_trigger_guard": true,
+      "includes_grip_screw": true,
+      "safety_type": "standard-90"
+    }
+  },
+  {
+    "id": "white-oak-lpk",
+    "slot_id": "lpk",
+    "name": "Semi-Auto Lower Parts Kit",
+    "brand": "White Oak Armament",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "trigger_type": "mil-spec",
+      "pin_diameter": "0.154",
+      "includes_trigger_guard": true,
+      "includes_grip_screw": true,
+      "safety_type": "standard-90"
+    }
   }
 ]

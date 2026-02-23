@@ -168,7 +168,6 @@ export default function BuildPanel() {
       })}
 
       {/* All parts reference for URL loading */}
-      <div className="hidden" id="all-parts-ref" data-parts={JSON.stringify(ALL_PARTS)} />
     </div>
   );
 }

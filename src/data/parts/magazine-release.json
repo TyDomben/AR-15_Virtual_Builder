@@ -58,5 +58,95 @@
       "material": "aluminum",
       "finish": "anodized"
     }
+  },
+  {
+    "id": "aero-mag-release",
+    "slot_id": "magazine-release",
+    "name": "Ambidextrous Magazine Release",
+    "brand": "Aero Precision",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "ambidextrous",
+      "material": "aluminum",
+      "finish": "anodized"
+    }
+  },
+  {
+    "id": "dd-mag-release",
+    "slot_id": "magazine-release",
+    "name": "Mil-Spec Magazine Release Button",
+    "brand": "Daniel Defense",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "standard",
+      "material": "steel",
+      "finish": "phosphate"
+    }
+  },
+  {
+    "id": "spikes-mag-release",
+    "slot_id": "magazine-release",
+    "name": "Extended Magazine Release",
+    "brand": "Spike's Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "extended",
+      "material": "steel",
+      "finish": "nitride"
+    }
+  },
+  {
+    "id": "radian-mag-release",
+    "slot_id": "magazine-release",
+    "name": "Ambidextrous Magazine Catch",
+    "brand": "Radian Weapons",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "ambidextrous",
+      "material": "aluminum",
+      "finish": "cerakote"
+    }
+  },
+  {
+    "id": "magpul-b-ad",
+    "slot_id": "magazine-release",
+    "name": "B.A.D. Lever Ambidextrous Release",
+    "brand": "Magpul",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "ambidextrous",
+      "material": "polymer",
+      "finish": "polymer"
+    }
+  },
+  {
+    "id": "larue-mag-release",
+    "slot_id": "magazine-release",
+    "name": "Mil-Spec Magazine Release",
+    "brand": "LaRue Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "standard",
+      "material": "steel",
+      "finish": "phosphate"
+    }
   }
 ]

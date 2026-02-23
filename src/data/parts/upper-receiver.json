@@ -150,5 +150,43 @@
       "rail_height": "standard",
       "receiver_extension_thread": "1-3/16x16"
     }
+  },
+  {
+    "id": "spikes-upper",
+    "slot_id": "upper-receiver",
+    "name": "Stripped Upper Receiver",
+    "brand": "Spike's Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "7075-T6 aluminum",
+      "finish": "Hardcoat anodized",
+      "has_forward_assist_port": true,
+      "has_dust_cover_port": true,
+      "has_top_rail": true,
+      "rail_height": "standard",
+      "receiver_extension_thread": "1-3/16x16"
+    }
+  },
+  {
+    "id": "palmetto-upper",
+    "slot_id": "upper-receiver",
+    "name": "Stripped Upper Receiver",
+    "brand": "Palmetto State Armory",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "7075-T6 aluminum",
+      "finish": "Hardcoat anodized",
+      "has_forward_assist_port": true,
+      "has_dust_cover_port": true,
+      "has_top_rail": true,
+      "rail_height": "standard",
+      "receiver_extension_thread": "1-3/16x16"
+    }
   }
 ]

@@ -3,6 +3,7 @@
  * Live completeness checklist + warnings panel.
  * Shows: required slots filled/empty, hard blocks, soft warnings, info flags.
  */
+import { useState } from 'react';
 import { useBuildStore } from '../store/buildStore';
 import slotsData from '../data/slots.json';
 
@@ -19,8 +20,8 @@ export default function ChecklistSidebar() {
       ? Math.round((filledRequired.length / totalRequired.length) * 100)
       : 0;
 
-  const isComplete =
-    missingSlots.length === 0 && hardBlocks.length === 0 && atfFlags.length === 0;
+  // Complete = all required filled, no hard blocks (ATF flags don't block completeness)
+  const isComplete = missingSlots.length === 0 && hardBlocks.length === 0;
 
   return (
     <aside className="flex flex-col gap-4">
@@ -152,6 +153,3 @@ function AlertItem({ alert, level }) {
     </div>
   );
 }
-
-// Need useState for AlertItem — import it
-import { useState } from 'react';

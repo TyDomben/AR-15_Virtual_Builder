@@ -100,5 +100,73 @@
       "finish": "hardcoat anodized",
       "length": "pistol"
     }
+  },
+  {
+    "id": "jp-buffer-tube-milspec",
+    "slot_id": "buffer-tube",
+    "name": "JP Silent Captured Spring Buffer Tube",
+    "brand": "JP Enterprises",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "spec": "mil-spec",
+      "diameter_inches": 1.148,
+      "material": "7075-T6 aluminum",
+      "finish": "hardcoat anodized",
+      "length": "carbine"
+    }
+  },
+  {
+    "id": "seekins-buffer-tube",
+    "slot_id": "buffer-tube",
+    "name": "Carbine Buffer Tube (Mil-Spec)",
+    "brand": "Seekins Precision",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "spec": "mil-spec",
+      "diameter_inches": 1.148,
+      "material": "7075-T6 aluminum",
+      "finish": "hardcoat anodized",
+      "length": "carbine"
+    }
+  },
+  {
+    "id": "kak-pistol-buffer-tube",
+    "slot_id": "buffer-tube",
+    "name": "Pistol Buffer Tube (No-Stock)",
+    "brand": "KAK Industry",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "spec": "pistol",
+      "diameter_inches": 1.148,
+      "material": "7075-T6 aluminum",
+      "finish": "hardcoat anodized",
+      "length": "pistol"
+    }
+  },
+  {
+    "id": "larue-buffer-tube",
+    "slot_id": "buffer-tube",
+    "name": "Carbine Buffer Tube (Mil-Spec)",
+    "brand": "LaRue Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "spec": "mil-spec",
+      "diameter_inches": 1.148,
+      "material": "7075-T6 aluminum",
+      "finish": "hardcoat anodized",
+      "length": "carbine"
+    }
   }
 ]

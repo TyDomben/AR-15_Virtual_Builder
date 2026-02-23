@@ -28,5 +28,125 @@
       "finish": "phosphate",
       "type": "standard"
     }
+  },
+  {
+    "id": "bcm-dust-cover",
+    "slot_id": "dust-cover",
+    "name": "Ejection Port Cover Assembly",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "steel",
+      "finish": "phosphate",
+      "type": "standard"
+    }
+  },
+  {
+    "id": "dd-dust-cover",
+    "slot_id": "dust-cover",
+    "name": "Ejection Port Cover Assembly",
+    "brand": "Daniel Defense",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "steel",
+      "finish": "phosphate",
+      "type": "standard"
+    }
+  },
+  {
+    "id": "midwest-dust-cover",
+    "slot_id": "dust-cover",
+    "name": "Ejection Port Cover Kit",
+    "brand": "Midwest Industries",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "steel",
+      "finish": "nitride",
+      "type": "standard"
+    }
+  },
+  {
+    "id": "spikes-dust-cover",
+    "slot_id": "dust-cover",
+    "name": "Ejection Port Cover Assembly",
+    "brand": "Spike's Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "steel",
+      "finish": "phosphate",
+      "type": "standard"
+    }
+  },
+  {
+    "id": "larue-dust-cover",
+    "slot_id": "dust-cover",
+    "name": "Ejection Port Cover",
+    "brand": "LaRue Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "steel",
+      "finish": "nitride",
+      "type": "standard"
+    }
+  },
+  {
+    "id": "radian-dust-cover",
+    "slot_id": "dust-cover",
+    "name": "Raptor Ambidextrous Dust Cover",
+    "brand": "Radian Weapons",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "aluminum",
+      "finish": "anodized",
+      "type": "ambidextrous"
+    }
+  },
+  {
+    "id": "phase5-dust-cover",
+    "slot_id": "dust-cover",
+    "name": "Extended Ejection Port Cover",
+    "brand": "Phase 5 Weapon Systems",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "steel",
+      "finish": "nitride",
+      "type": "extended"
+    }
+  },
+  {
+    "id": "cmmg-dust-cover",
+    "slot_id": "dust-cover",
+    "name": "Ejection Port Cover Assembly",
+    "brand": "CMMG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "steel",
+      "finish": "phosphate",
+      "type": "standard"
+    }
   }
 ]
