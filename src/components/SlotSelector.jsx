@@ -106,11 +106,6 @@ export default function SlotSelector({ slot, parts, isUnlocked, isKitChild }) {
             {slot.is_required && !selected && (
               <span className="text-xs text-red-500 font-medium">Required</span>
             )}
-            {slot.is_kit && (
-              <span className="text-xs bg-gray-100 text-gray-500 px-1.5 py-0.5 rounded font-medium">
-                KIT
-              </span>
-            )}
           </div>
           {selected ? (
             <p className="text-sm font-medium text-gray-900 truncate mt-0.5">
@@ -266,10 +261,13 @@ function buildAttrSummary(attrs) {
   const parts = [];
   if (attrs.caliber) parts.push(attrs.caliber);
   if (attrs.length_inches) parts.push(`${attrs.length_inches}"`);
-  if (attrs.gas_system) parts.push(`${attrs.gas_system}-length`);
+  if (attrs.gas_system) {
+    const gs = attrs.gas_system;
+    parts.push(gs.includes('length') ? gs : `${gs}-length`);
+  }
   if (attrs.twist_rate) parts.push(`1:${attrs.twist_rate.replace('1:', '')}`);
   if (attrs.weight_oz) parts.push(`${attrs.weight_oz}oz`);
-  if (attrs.spec) parts.push(`${attrs.spec} spec`);
+  if (attrs.spec) parts.push(attrs.spec);
   if (attrs.mount_system) parts.push(attrs.mount_system);
   if (attrs.tube_spec) parts.push(`${attrs.tube_spec} tube`);
   if (attrs.type && !attrs.gas_system) parts.push(attrs.type);
