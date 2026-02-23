@@ -56,7 +56,7 @@ export default function KitExpander({ kitSlot, kitParts, childSlots, childPartsM
           />
           {hasChildren && (
             <p className="text-xs text-gray-400 px-1 mt-1.5">
-              Selecting a kit uses mil-spec defaults for sub-components. Click "Expand" to configure individually.
+              Selecting the kit covers all sub-components as a unit. Expand to choose each part individually instead.
             </p>
           )}
         </div>

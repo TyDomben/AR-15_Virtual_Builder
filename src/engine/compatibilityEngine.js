@@ -266,6 +266,8 @@ export function getMissingRequiredSlots(selectedParts, slots, unlockedSlots) {
   return slots.filter((slot) => {
     if (!slot.is_required) return false;
     if (slot.is_conditional && !unlockedSlots.includes(slot.id)) return false;
+    // If this slot belongs to a kit and the kit-level part is selected, it's covered
+    if (slot.parent_kit_id && selectedParts[slot.parent_kit_id]) return false;
     return !selectedParts[slot.id];
   });
 }

@@ -137,7 +137,7 @@ export default function SlotSelector({ slot, parts, isUnlocked, isKitChild }) {
           )}
 
           {/* Chevron */}
-          <span className={`text-gray-400 transition-transform ${open ? 'rotate-180' : ''}`}>
+          <span className={`inline-block text-gray-400 transition-transform duration-150 ${open ? 'rotate-180' : ''}`}>
             ▾
           </span>
         </div>
@@ -260,6 +260,7 @@ function PartOption({ part, isSelected, onSelect, isIncompatible, conflictReason
 function buildAttrSummary(attrs) {
   const parts = [];
   if (attrs.caliber) parts.push(attrs.caliber);
+  if (attrs.capacity) parts.push(`${attrs.capacity} rd`);
   if (attrs.length_inches) parts.push(`${attrs.length_inches}"`);
   if (attrs.gas_system) {
     const gs = attrs.gas_system;
@@ -268,10 +269,18 @@ function buildAttrSummary(attrs) {
   if (attrs.twist_rate) parts.push(`1:${attrs.twist_rate.replace('1:', '')}`);
   if (attrs.weight_oz) parts.push(`${attrs.weight_oz}oz`);
   if (attrs.spec) parts.push(attrs.spec);
-  if (attrs.mount_system) parts.push(attrs.mount_system);
   if (attrs.tube_spec) parts.push(`${attrs.tube_spec} tube`);
+  if (attrs.positions) parts.push(`${attrs.positions}-pos`);
+  if (attrs.mount_system) parts.push(attrs.mount_system);
+  if (attrs.mount_type) parts.push(attrs.mount_type);
   if (attrs.type && !attrs.gas_system) parts.push(attrs.type);
+  if (attrs.trigger_type) parts.push(attrs.trigger_type);
+  if (attrs.carrier_type) parts.push(attrs.carrier_type);
   if (attrs.journal_size) parts.push(`${attrs.journal_size}" journal`);
+  if (attrs.profile) parts.push(attrs.profile);
+  if (attrs.latch_size) parts.push(`${attrs.latch_size} latch`);
+  if (attrs.ambidextrous === true) parts.push('ambi');
+  if (attrs.angle) parts.push(`${attrs.angle} angle`);
   if (attrs.pull_weight_lbs) parts.push(`${attrs.pull_weight_lbs}lb pull`);
   return parts.slice(0, 4).join(' · ');
 }
