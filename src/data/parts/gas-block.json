@@ -1,0 +1,172 @@
+[
+  {
+    "id": "syrac-sag-750-lp",
+    "slot_id": "gas-block",
+    "name": "Adjustable Gas Block (.750\")",
+    "brand": "Syrac Ordnance",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "journal_size": "0.750",
+      "profile": "low-profile",
+      "adjustable": true,
+      "material": "stainless steel",
+      "attachment": "set-screw"
+    }
+  },
+  {
+    "id": "superlative-adjustable-750",
+    "slot_id": "gas-block",
+    "name": "Adjustable Piston Gas Block (.750\")",
+    "brand": "Superlative Arms",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "journal_size": "0.750",
+      "profile": "low-profile",
+      "adjustable": true,
+      "material": "stainless steel",
+      "attachment": "set-screw"
+    }
+  },
+  {
+    "id": "mi-gas-block-750-lp",
+    "slot_id": "gas-block",
+    "name": "Low Profile Gas Block (.750\")",
+    "brand": "Midwest Industries",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "journal_size": "0.750",
+      "profile": "low-profile",
+      "adjustable": false,
+      "material": "steel",
+      "attachment": "set-screw"
+    }
+  },
+  {
+    "id": "mi-gas-block-625-lp",
+    "slot_id": "gas-block",
+    "name": "Low Profile Gas Block (.625\")",
+    "brand": "Midwest Industries",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "journal_size": "0.625",
+      "profile": "low-profile",
+      "adjustable": false,
+      "material": "steel",
+      "attachment": "set-screw"
+    }
+  },
+  {
+    "id": "larue-mbt-gas-block-750",
+    "slot_id": "gas-block",
+    "name": "Clamp-On Low Profile Gas Block (.750\")",
+    "brand": "LaRue Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "journal_size": "0.750",
+      "profile": "low-profile",
+      "adjustable": false,
+      "material": "steel",
+      "attachment": "clamp"
+    }
+  },
+  {
+    "id": "sb-tactical-gas-block-750-standard",
+    "slot_id": "gas-block",
+    "name": "AR-15 F-Height Gas Block (.750\")",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "journal_size": "0.750",
+      "profile": "standard",
+      "adjustable": false,
+      "material": "steel",
+      "attachment": "set-screw"
+    }
+  },
+  {
+    "id": "geissele-gas-block-750",
+    "slot_id": "gas-block",
+    "name": "Super Gas Block (.750\")",
+    "brand": "Geissele Automatics",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "journal_size": "0.750",
+      "profile": "low-profile",
+      "adjustable": false,
+      "material": "steel",
+      "attachment": "set-screw"
+    }
+  },
+  {
+    "id": "dd-fixed-gas-block-750",
+    "slot_id": "gas-block",
+    "name": "Low Profile Gas Block (.750\")",
+    "brand": "Daniel Defense",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "journal_size": "0.750",
+      "profile": "low-profile",
+      "adjustable": false,
+      "material": "steel",
+      "attachment": "set-screw"
+    }
+  },
+  {
+    "id": "yankee-hill-gas-block-750",
+    "slot_id": "gas-block",
+    "name": "Low Profile Gas Block (.750\")",
+    "brand": "Yankee Hill Machine",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "journal_size": "0.750",
+      "profile": "low-profile",
+      "adjustable": false,
+      "material": "steel",
+      "attachment": "set-screw"
+    }
+  },
+  {
+    "id": "bcm-gas-block-750",
+    "slot_id": "gas-block",
+    "name": "Low Profile Gas Block (.750\")",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "journal_size": "0.750",
+      "profile": "low-profile",
+      "adjustable": false,
+      "material": "steel",
+      "attachment": "set-screw"
+    }
+  }
+]

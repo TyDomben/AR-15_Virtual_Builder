@@ -1,0 +1,155 @@
+[
+  {
+    "id": "a2-birdcage-flash-hider-1-2x28",
+    "slot_id": "muzzle-device",
+    "name": "A2 Birdcage Flash Hider (1/2x28)",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "flash-hider",
+      "thread_pitch": "1/2x28",
+      "material": "steel",
+      "finish": "phosphate",
+      "nfa_item": false
+    }
+  },
+  {
+    "id": "surefire-warcomp-1-2x28",
+    "slot_id": "muzzle-device",
+    "name": "WARCOMP Flash Hider/Suppressor Host (1/2x28)",
+    "brand": "SureFire",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "flash-hider",
+      "thread_pitch": "1/2x28",
+      "material": "stainless steel",
+      "finish": "Ionbond",
+      "nfa_item": false
+    }
+  },
+  {
+    "id": "bcm-gunfighter-comp-1-2x28",
+    "slot_id": "muzzle-device",
+    "name": "Gunfighter Compensator Mod 1 (1/2x28)",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "compensator",
+      "thread_pitch": "1/2x28",
+      "material": "steel",
+      "finish": "phosphate",
+      "nfa_item": false
+    }
+  },
+  {
+    "id": "aero-brake-1-2x28",
+    "slot_id": "muzzle-device",
+    "name": "AR15 Muzzle Brake (1/2x28)",
+    "brand": "Aero Precision",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "muzzle-brake",
+      "thread_pitch": "1/2x28",
+      "material": "steel",
+      "finish": "phosphate",
+      "nfa_item": false
+    }
+  },
+  {
+    "id": "silencerco-asr-1-2x28",
+    "slot_id": "muzzle-device",
+    "name": "ASR Muzzle Brake (1/2x28)",
+    "brand": "SilencerCo",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "suppressor-mount",
+      "thread_pitch": "1/2x28",
+      "material": "stainless steel",
+      "finish": "Cerakote",
+      "nfa_item": false
+    }
+  },
+  {
+    "id": "silencerco-osprey-suppressor",
+    "slot_id": "muzzle-device",
+    "name": "Osprey 45 Suppressor (NFA)",
+    "brand": "SilencerCo",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "suppressor",
+      "thread_pitch": "1/2x28",
+      "material": "stainless steel / aluminum",
+      "finish": "Cerakote",
+      "nfa_item": true
+    }
+  },
+  {
+    "id": "dead-air-sandman-s-suppressor",
+    "slot_id": "muzzle-device",
+    "name": "Sandman-S Suppressor (NFA)",
+    "brand": "Dead Air Armament",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "suppressor",
+      "thread_pitch": "1/2x28",
+      "material": "stainless steel",
+      "finish": "Cerakote",
+      "nfa_item": true
+    }
+  },
+  {
+    "id": "a2-birdcage-flash-hider-5-8x24",
+    "slot_id": "muzzle-device",
+    "name": "A2 Birdcage Flash Hider (5/8x24)",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "flash-hider",
+      "thread_pitch": "5/8x24",
+      "material": "steel",
+      "finish": "phosphate",
+      "nfa_item": false
+    }
+  },
+  {
+    "id": "sandstorm-comp-5-8x24",
+    "slot_id": "muzzle-device",
+    "name": "Sandstorm Muzzle Brake (5/8x24)",
+    "brand": "Strike Industries",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "muzzle-brake",
+      "thread_pitch": "5/8x24",
+      "material": "steel",
+      "finish": "nitride",
+      "nfa_item": false
+    }
+  }
+]

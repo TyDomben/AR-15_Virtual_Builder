@@ -1,0 +1,211 @@
+[
+  {
+    "id": "bcm-mcmr-15-mlok",
+    "slot_id": "handguard",
+    "name": "MCMR-15 M-LOK Handguard",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "mount_system": "M-LOK",
+      "barrel_nut_type": "proprietary-BCM",
+      "gas_block_clearance": "low-profile-required",
+      "length_inches": 15,
+      "has_accessory_rail": true,
+      "handguard_type": "free-float",
+      "top_rail_length_inches": 15
+    }
+  },
+  {
+    "id": "bcm-mcmr-13-mlok",
+    "slot_id": "handguard",
+    "name": "MCMR-13 M-LOK Handguard",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "mount_system": "M-LOK",
+      "barrel_nut_type": "proprietary-BCM",
+      "gas_block_clearance": "low-profile-required",
+      "length_inches": 13,
+      "has_accessory_rail": true,
+      "handguard_type": "free-float",
+      "top_rail_length_inches": 13
+    }
+  },
+  {
+    "id": "mi-combat-rail-mlok-15",
+    "slot_id": "handguard",
+    "name": "Combat Rail M-LOK 15\"",
+    "brand": "Midwest Industries",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "mount_system": "M-LOK",
+      "barrel_nut_type": "mil-spec",
+      "gas_block_clearance": "low-profile-required",
+      "length_inches": 15,
+      "has_accessory_rail": true,
+      "handguard_type": "free-float",
+      "top_rail_length_inches": 15
+    }
+  },
+  {
+    "id": "mi-combat-rail-mlok-13",
+    "slot_id": "handguard",
+    "name": "Combat Rail M-LOK 13\"",
+    "brand": "Midwest Industries",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "mount_system": "M-LOK",
+      "barrel_nut_type": "mil-spec",
+      "gas_block_clearance": "low-profile-required",
+      "length_inches": 13,
+      "has_accessory_rail": true,
+      "handguard_type": "free-float",
+      "top_rail_length_inches": 13
+    }
+  },
+  {
+    "id": "geissele-mk16-14",
+    "slot_id": "handguard",
+    "name": "Super Modular Rail MK16 14\" M-LOK",
+    "brand": "Geissele Automatics",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "mount_system": "M-LOK",
+      "barrel_nut_type": "proprietary-Geissele",
+      "gas_block_clearance": "low-profile-required",
+      "length_inches": 14,
+      "has_accessory_rail": true,
+      "handguard_type": "free-float",
+      "top_rail_length_inches": 14
+    }
+  },
+  {
+    "id": "aero-atlas-r-one-15",
+    "slot_id": "handguard",
+    "name": "Atlas R-ONE 15\" M-LOK Handguard",
+    "brand": "Aero Precision",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "mount_system": "M-LOK",
+      "barrel_nut_type": "proprietary-Aero",
+      "gas_block_clearance": "low-profile-required",
+      "length_inches": 15,
+      "has_accessory_rail": true,
+      "handguard_type": "free-float",
+      "top_rail_length_inches": 15
+    }
+  },
+  {
+    "id": "aero-atlas-r-one-13",
+    "slot_id": "handguard",
+    "name": "Atlas R-ONE 13\" M-LOK Handguard",
+    "brand": "Aero Precision",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "mount_system": "M-LOK",
+      "barrel_nut_type": "proprietary-Aero",
+      "gas_block_clearance": "low-profile-required",
+      "length_inches": 13,
+      "has_accessory_rail": true,
+      "handguard_type": "free-float",
+      "top_rail_length_inches": 13
+    }
+  },
+  {
+    "id": "magpul-moe-sl-9",
+    "slot_id": "handguard",
+    "name": "MOE SL 9\" M-LOK Handguard (Carbine)",
+    "brand": "Magpul",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "mount_system": "M-LOK",
+      "barrel_nut_type": "mil-spec",
+      "gas_block_clearance": "standard",
+      "length_inches": 9,
+      "has_accessory_rail": true,
+      "handguard_type": "free-float",
+      "top_rail_length_inches": 4
+    }
+  },
+  {
+    "id": "larue-mbt-12",
+    "slot_id": "handguard",
+    "name": "Stealth Urban 12\" M-LOK Rail",
+    "brand": "LaRue Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "mount_system": "M-LOK",
+      "barrel_nut_type": "proprietary-LaRue",
+      "gas_block_clearance": "low-profile-required",
+      "length_inches": 12,
+      "has_accessory_rail": true,
+      "handguard_type": "free-float",
+      "top_rail_length_inches": 12
+    }
+  },
+  {
+    "id": "dd-rail-12-0-mlok",
+    "slot_id": "handguard",
+    "name": "12.0\" MFR M-LOK Rail",
+    "brand": "Daniel Defense",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "mount_system": "M-LOK",
+      "barrel_nut_type": "proprietary-DD",
+      "gas_block_clearance": "low-profile-required",
+      "length_inches": 12,
+      "has_accessory_rail": true,
+      "handguard_type": "free-float",
+      "top_rail_length_inches": 12
+    }
+  },
+  {
+    "id": "dd-pistol-rail-9",
+    "slot_id": "handguard",
+    "name": "9.0\" PISTOL MFR M-LOK Rail",
+    "brand": "Daniel Defense",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "mount_system": "M-LOK",
+      "barrel_nut_type": "proprietary-DD",
+      "gas_block_clearance": "low-profile-required",
+      "length_inches": 9,
+      "has_accessory_rail": true,
+      "handguard_type": "free-float",
+      "top_rail_length_inches": 9
+    }
+  }
+]

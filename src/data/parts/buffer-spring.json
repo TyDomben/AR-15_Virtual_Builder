@@ -1,0 +1,82 @@
+[
+  {
+    "id": "standard-buffer-spring",
+    "slot_id": "buffer-spring",
+    "name": "Standard Carbine Buffer Spring",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "standard",
+      "coils": 37,
+      "material": "chrome silicon steel",
+      "compatible_lengths": ["carbine", "pistol"]
+    }
+  },
+  {
+    "id": "wolff-extra-power-spring",
+    "slot_id": "buffer-spring",
+    "name": "Extra Power Buffer Spring",
+    "brand": "Wolff Gunsprings",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "extra-power",
+      "coils": 40,
+      "material": "chrome silicon steel",
+      "compatible_lengths": ["carbine", "pistol", "rifle"]
+    }
+  },
+  {
+    "id": "sprinco-blue-spring",
+    "slot_id": "buffer-spring",
+    "name": "AR-15 Buffer Spring (Blue — Standard Power)",
+    "brand": "Sprinco",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "standard",
+      "coils": 39,
+      "material": "chrome silicon steel",
+      "compatible_lengths": ["carbine", "pistol", "rifle"]
+    }
+  },
+  {
+    "id": "sprinco-silver-spring",
+    "slot_id": "buffer-spring",
+    "name": "AR-15 Buffer Spring (Silver — Enhanced)",
+    "brand": "Sprinco",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "enhanced",
+      "coils": 42,
+      "material": "chrome silicon steel",
+      "compatible_lengths": ["carbine", "pistol", "rifle"]
+    }
+  },
+  {
+    "id": "bcm-buffer-spring",
+    "slot_id": "buffer-spring",
+    "name": "Carbine Buffer Spring",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "standard",
+      "coils": 37,
+      "material": "chrome silicon steel",
+      "compatible_lengths": ["carbine", "pistol"]
+    }
+  }
+]

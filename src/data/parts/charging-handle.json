@@ -1,0 +1,138 @@
+[
+  {
+    "id": "bcm-gunfighter-mod4-medium",
+    "slot_id": "charging-handle",
+    "name": "Gunfighter Charging Handle Mod 4 (Medium Latch)",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "latch_size": "medium",
+      "ambidextrous": false,
+      "material": "7075-T6 aluminum",
+      "finish": "hardcoat anodized",
+      "oversized_latch": false
+    }
+  },
+  {
+    "id": "bcm-gunfighter-mod3-large",
+    "slot_id": "charging-handle",
+    "name": "Gunfighter Charging Handle Mod 3 (Large Latch)",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "latch_size": "large",
+      "ambidextrous": false,
+      "material": "7075-T6 aluminum",
+      "finish": "hardcoat anodized",
+      "oversized_latch": true
+    }
+  },
+  {
+    "id": "radian-raptor-ambi",
+    "slot_id": "charging-handle",
+    "name": "Raptor Ambidextrous Charging Handle",
+    "brand": "Radian Weapons",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "latch_size": "large",
+      "ambidextrous": true,
+      "material": "7075-T6 aluminum",
+      "finish": "hardcoat anodized",
+      "oversized_latch": true
+    }
+  },
+  {
+    "id": "larue-ost-ambi",
+    "slot_id": "charging-handle",
+    "name": "OST Ambi Charging Handle",
+    "brand": "LaRue Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "latch_size": "large",
+      "ambidextrous": true,
+      "material": "7075-T6 aluminum",
+      "finish": "hardcoat anodized",
+      "oversized_latch": true
+    }
+  },
+  {
+    "id": "aero-ambidextrous-ch",
+    "slot_id": "charging-handle",
+    "name": "Ambidextrous Charging Handle",
+    "brand": "Aero Precision",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "latch_size": "large",
+      "ambidextrous": true,
+      "material": "7075-T6 aluminum",
+      "finish": "hardcoat anodized",
+      "oversized_latch": true
+    }
+  },
+  {
+    "id": "milspec-standard-ch",
+    "slot_id": "charging-handle",
+    "name": "Mil-Spec Charging Handle",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "latch_size": "standard",
+      "ambidextrous": false,
+      "material": "7075-T6 aluminum",
+      "finish": "hardcoat anodized",
+      "oversized_latch": false
+    }
+  },
+  {
+    "id": "geissele-super-ch",
+    "slot_id": "charging-handle",
+    "name": "Super Charging Handle",
+    "brand": "Geissele Automatics",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "latch_size": "medium",
+      "ambidextrous": false,
+      "material": "7075-T6 aluminum",
+      "finish": "hardcoat anodized",
+      "oversized_latch": false
+    }
+  },
+  {
+    "id": "phase5-extended-latch-ch",
+    "slot_id": "charging-handle",
+    "name": "Extended Latch Charging Handle",
+    "brand": "Phase 5 Weapon Systems",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "latch_size": "large",
+      "ambidextrous": false,
+      "material": "7075-T6 aluminum",
+      "finish": "hardcoat anodized",
+      "oversized_latch": true
+    }
+  }
+]

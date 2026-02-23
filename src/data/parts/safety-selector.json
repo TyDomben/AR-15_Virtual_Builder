@@ -1,0 +1,82 @@
+[
+  {
+    "id": "radian-talon-ambi-safety",
+    "slot_id": "safety-selector",
+    "name": "Talon Ambidextrous Safety Selector",
+    "brand": "Radian Weapons",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "ambidextrous",
+      "throw_degrees": 45,
+      "material": "aluminum",
+      "finish": "anodized"
+    }
+  },
+  {
+    "id": "mil-spec-safety-selector",
+    "slot_id": "safety-selector",
+    "name": "Mil-Spec Safety Selector",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "standard",
+      "throw_degrees": 90,
+      "material": "steel",
+      "finish": "phosphate"
+    }
+  },
+  {
+    "id": "bcm-ambi-safety-45",
+    "slot_id": "safety-selector",
+    "name": "GUNFIGHTER Ambi Safety Selector 45-Degree",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "ambidextrous",
+      "throw_degrees": 45,
+      "material": "aluminum",
+      "finish": "anodized"
+    }
+  },
+  {
+    "id": "geissele-ambi-safety",
+    "slot_id": "safety-selector",
+    "name": "Ambi Safety Selector (Short Throw)",
+    "brand": "Geissele Automatics",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "ambidextrous",
+      "throw_degrees": 45,
+      "material": "aluminum",
+      "finish": "anodized"
+    }
+  },
+  {
+    "id": "norgon-ambi-safety",
+    "slot_id": "safety-selector",
+    "name": "Ambidextrous Safety Selector",
+    "brand": "Norgon",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "ambidextrous",
+      "throw_degrees": 90,
+      "material": "steel",
+      "finish": "phosphate"
+    }
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "bcm-carbine-buffer-3oz",
+    "slot_id": "buffer",
+    "name": "Carbine Buffer (3oz)",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "weight_oz": 3.0,
+      "type": "carbine",
+      "recommended_gas_systems": ["carbine", "mid-length"],
+      "material": "steel"
+    }
+  },
+  {
+    "id": "h1-buffer-3-8oz",
+    "slot_id": "buffer",
+    "name": "H1 Buffer (3.8oz)",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "weight_oz": 3.8,
+      "type": "H",
+      "recommended_gas_systems": ["mid-length", "carbine"],
+      "material": "steel + tungsten"
+    }
+  },
+  {
+    "id": "h2-buffer-4-6oz",
+    "slot_id": "buffer",
+    "name": "H2 Buffer (4.6oz)",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "weight_oz": 4.6,
+      "type": "H2",
+      "recommended_gas_systems": ["mid-length", "rifle"],
+      "material": "steel + tungsten"
+    }
+  },
+  {
+    "id": "h3-buffer-5-4oz",
+    "slot_id": "buffer",
+    "name": "H3 Buffer (5.4oz)",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "weight_oz": 5.4,
+      "type": "H3",
+      "recommended_gas_systems": ["rifle"],
+      "material": "steel + tungsten"
+    }
+  },
+  {
+    "id": "vltor-a5-buffer",
+    "slot_id": "buffer",
+    "name": "A5 Hydraulic Buffer",
+    "brand": "VLTOR",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "weight_oz": 5.0,
+      "type": "hydraulic",
+      "recommended_gas_systems": ["mid-length", "rifle"],
+      "material": "steel + hydraulic"
+    }
+  },
+  {
+    "id": "jp-silent-captured-spring",
+    "slot_id": "buffer",
+    "name": "Silent Captured Spring (SCS) — Standard Weight",
+    "brand": "JP Enterprises",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "weight_oz": 4.5,
+      "type": "captured",
+      "recommended_gas_systems": ["carbine", "mid-length"],
+      "material": "steel"
+    }
+  },
+  {
+    "id": "pistol-buffer-carbine-weight",
+    "slot_id": "buffer",
+    "name": "Pistol/AR Carbine Buffer (3oz)",
+    "brand": "Aero Precision",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "weight_oz": 3.0,
+      "type": "pistol",
+      "recommended_gas_systems": ["pistol", "carbine"],
+      "material": "steel"
+    }
+  }
+]

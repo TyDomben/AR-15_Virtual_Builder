@@ -1,0 +1,173 @@
+[
+  {
+    "id": "aero-m4e1-stripped-lower",
+    "slot_id": "lower-receiver",
+    "name": "M4E1 Stripped Lower Receiver",
+    "brand": "Aero Precision",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "stripped",
+      "material": "7075-T6 aluminum",
+      "finish": "Anodized",
+      "trigger_hammer_pin_diameter": "0.154",
+      "integral_trigger_guard": false,
+      "selector_type": "standard",
+      "caliber_marked": "Multi"
+    }
+  },
+  {
+    "id": "aero-m4e1-enhanced-stripped-lower",
+    "slot_id": "lower-receiver",
+    "name": "M4E1 Enhanced Stripped Lower Receiver",
+    "brand": "Aero Precision",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "stripped",
+      "material": "7075-T6 aluminum",
+      "finish": "Anodized",
+      "trigger_hammer_pin_diameter": "0.154",
+      "integral_trigger_guard": true,
+      "selector_type": "standard",
+      "caliber_marked": "Multi"
+    }
+  },
+  {
+    "id": "bcm-mod2-stripped-lower",
+    "slot_id": "lower-receiver",
+    "name": "BCM MOD2 Stripped Lower Receiver",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "stripped",
+      "material": "7075-T6 aluminum",
+      "finish": "Hardcoat anodized",
+      "trigger_hammer_pin_diameter": "0.154",
+      "integral_trigger_guard": false,
+      "selector_type": "standard",
+      "caliber_marked": "Multi"
+    }
+  },
+  {
+    "id": "daniel-defense-stripped-lower",
+    "slot_id": "lower-receiver",
+    "name": "DDM4 Stripped Lower Receiver",
+    "brand": "Daniel Defense",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "stripped",
+      "material": "7075-T6 aluminum",
+      "finish": "Mil-spec hardcoat anodized",
+      "trigger_hammer_pin_diameter": "0.154",
+      "integral_trigger_guard": false,
+      "selector_type": "standard",
+      "caliber_marked": "5.56 NATO"
+    }
+  },
+  {
+    "id": "brownells-blem-stripped-lower",
+    "slot_id": "lower-receiver",
+    "name": "AR-15 Stripped Lower Receiver (Blem)",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "stripped",
+      "material": "7075-T6 aluminum",
+      "finish": "Hardcoat anodized",
+      "trigger_hammer_pin_diameter": "0.154",
+      "integral_trigger_guard": false,
+      "selector_type": "standard",
+      "caliber_marked": "Multi"
+    }
+  },
+  {
+    "id": "larue-stripped-lower",
+    "slot_id": "lower-receiver",
+    "name": "PredatAR Lower Receiver",
+    "brand": "LaRue Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "stripped",
+      "material": "7075-T6 aluminum",
+      "finish": "Hardcoat anodized",
+      "trigger_hammer_pin_diameter": "0.154",
+      "integral_trigger_guard": false,
+      "selector_type": "standard",
+      "caliber_marked": "Multi"
+    }
+  },
+  {
+    "id": "magpul-moe-lower",
+    "slot_id": "lower-receiver",
+    "name": "AR-15/M16 Lower Receiver (MOE Trigger Guard)",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "stripped",
+      "material": "7075-T6 aluminum",
+      "finish": "Hardcoat anodized",
+      "trigger_hammer_pin_diameter": "0.154",
+      "integral_trigger_guard": true,
+      "selector_type": "standard",
+      "caliber_marked": "Multi"
+    }
+  },
+  {
+    "id": "cmmg-lower-308-pins",
+    "slot_id": "lower-receiver",
+    "name": "AR-15 Stripped Lower Receiver (Large Pin)",
+    "brand": "CMMG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "stripped",
+      "material": "7075-T6 aluminum",
+      "finish": "Hardcoat anodized",
+      "trigger_hammer_pin_diameter": "0.170",
+      "integral_trigger_guard": false,
+      "selector_type": "standard",
+      "caliber_marked": "Multi"
+    }
+  },
+  {
+    "id": "radian-lower",
+    "slot_id": "lower-receiver",
+    "name": "Radian Weapons AR-15 Lower Receiver",
+    "brand": "Radian Weapons",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "stripped",
+      "material": "7075-T6 aluminum",
+      "finish": "Cerakote",
+      "trigger_hammer_pin_diameter": "0.154",
+      "integral_trigger_guard": false,
+      "selector_type": "ambidextrous",
+      "caliber_marked": "Multi"
+    }
+  }
+]

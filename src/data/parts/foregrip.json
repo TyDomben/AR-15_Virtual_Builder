@@ -1,0 +1,92 @@
+[
+  {
+    "id": "magpul-mvg-mlok",
+    "slot_id": "foregrip",
+    "name": "MVG M-LOK Vertical Foregrip",
+    "brand": "Magpul",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "vertical",
+      "mount_type": "M-LOK",
+      "material": "polymer"
+    }
+  },
+  {
+    "id": "magpul-afg2-picatinny",
+    "slot_id": "foregrip",
+    "name": "AFG2 Angled Foregrip (Picatinny)",
+    "brand": "Magpul",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "angled",
+      "mount_type": "Picatinny",
+      "material": "polymer"
+    }
+  },
+  {
+    "id": "bcm-kag-mlok",
+    "slot_id": "foregrip",
+    "name": "KAG M-LOK Kinesthetic Angled Grip",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "angled",
+      "mount_type": "M-LOK",
+      "material": "polymer"
+    }
+  },
+  {
+    "id": "bcm-kag-keymod",
+    "slot_id": "foregrip",
+    "name": "KAG KeyMod Kinesthetic Angled Grip",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "angled",
+      "mount_type": "KeyMod",
+      "material": "polymer"
+    }
+  },
+  {
+    "id": "si-hand-stop-mlok",
+    "slot_id": "foregrip",
+    "name": "AR Handstop Kit (M-LOK)",
+    "brand": "Strike Industries",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "hand-stop",
+      "mount_type": "M-LOK",
+      "material": "polymer"
+    }
+  },
+  {
+    "id": "grip-pod-gps02-picatinny",
+    "slot_id": "foregrip",
+    "name": "Grip Pod GPS02 Bipod/Foregrip (Picatinny)",
+    "brand": "Grip Pod",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "vertical",
+      "mount_type": "Picatinny",
+      "material": "polymer"
+    }
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "id": "bcm-bcg-556-mpi",
+    "slot_id": "bcg",
+    "name": "BCG MPI/HPT Tested (5.56 NATO / .223)",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "caliber": "5.56 NATO",
+      "carrier_type": "full-auto",
+      "material": "Carpenter 158 steel",
+      "finish": "phosphate",
+      "mpi_tested": true,
+      "hpt_tested": true,
+      "gas_key_staked": true
+    }
+  },
+  {
+    "id": "aero-bcg-556-nitride",
+    "slot_id": "bcg",
+    "name": "Gen 2 BCG 5.56 Nitride",
+    "brand": "Aero Precision",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "caliber": "5.56 NATO",
+      "carrier_type": "full-auto",
+      "material": "8620 steel",
+      "finish": "nitride",
+      "mpi_tested": true,
+      "hpt_tested": false,
+      "gas_key_staked": true
+    }
+  },
+  {
+    "id": "dd-bcg-556",
+    "slot_id": "bcg",
+    "name": "BCG (5.56 NATO)",
+    "brand": "Daniel Defense",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "caliber": "5.56 NATO",
+      "carrier_type": "full-auto",
+      "material": "Carpenter 158 steel",
+      "finish": "phosphate",
+      "mpi_tested": true,
+      "hpt_tested": true,
+      "gas_key_staked": true
+    }
+  },
+  {
+    "id": "larue-bcg-556",
+    "slot_id": "bcg",
+    "name": "NiB BCG (5.56 NATO)",
+    "brand": "LaRue Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "caliber": "5.56 NATO",
+      "carrier_type": "full-auto",
+      "material": "Carpenter 158 steel",
+      "finish": "nickel-boron",
+      "mpi_tested": true,
+      "hpt_tested": true,
+      "gas_key_staked": true
+    }
+  },
+  {
+    "id": "toolcraft-bcg-556-nitride",
+    "slot_id": "bcg",
+    "name": "NiB Coated BCG (5.56 NATO)",
+    "brand": "Toolcraft",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "caliber": "5.56 NATO",
+      "carrier_type": "full-auto",
+      "material": "Carpenter 158 steel",
+      "finish": "nickel-boron",
+      "mpi_tested": true,
+      "hpt_tested": false,
+      "gas_key_staked": true
+    }
+  },
+  {
+    "id": "toolcraft-bcg-300blk",
+    "slot_id": "bcg",
+    "name": "Phosphate BCG (.300 BLK / 5.56 NATO)",
+    "brand": "Toolcraft",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "caliber": ".300 BLK",
+      "carrier_type": "full-auto",
+      "material": "Carpenter 158 steel",
+      "finish": "phosphate",
+      "mpi_tested": true,
+      "hpt_tested": false,
+      "gas_key_staked": true
+    }
+  },
+  {
+    "id": "bcm-bcg-300blk",
+    "slot_id": "bcg",
+    "name": "BCG MPI Tested (.300 BLK)",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "caliber": ".300 BLK",
+      "carrier_type": "full-auto",
+      "material": "Carpenter 158 steel",
+      "finish": "phosphate",
+      "mpi_tested": true,
+      "hpt_tested": true,
+      "gas_key_staked": true
+    }
+  },
+  {
+    "id": "nbs-bcg-223w",
+    "slot_id": "bcg",
+    "name": "M16 BCG 5.56 / .223 Wylde Phosphate",
+    "brand": "NBS (National Blacksmith Supply)",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "caliber": ".223 Wylde",
+      "carrier_type": "full-auto",
+      "material": "Carpenter 158 steel",
+      "finish": "phosphate",
+      "mpi_tested": true,
+      "hpt_tested": false,
+      "gas_key_staked": true
+    }
+  },
+  {
+    "id": "failzero-bcg-556",
+    "slot_id": "bcg",
+    "name": "EXO Coated BCG (5.56 NATO)",
+    "brand": "FailZero",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "caliber": "5.56 NATO",
+      "carrier_type": "full-auto",
+      "material": "8620 steel",
+      "finish": "EXO-nickel-boron",
+      "mpi_tested": true,
+      "hpt_tested": false,
+      "gas_key_staked": true
+    }
+  }
+]

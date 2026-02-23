@@ -1,0 +1,138 @@
+[
+  {
+    "id": "geissele-ssf-trigger",
+    "slot_id": "trigger",
+    "name": "SSF (Super Select-Fire) Trigger",
+    "brand": "Geissele Automatics",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "two-stage",
+      "pull_weight_lbs": 4.5,
+      "pin_diameter": "0.154",
+      "matched_hammer_included": true,
+      "material": "tool steel"
+    }
+  },
+  {
+    "id": "geissele-sd3g-trigger",
+    "slot_id": "trigger",
+    "name": "SD3G (Super Dynamic 3 Gun) Trigger",
+    "brand": "Geissele Automatics",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "single-stage",
+      "pull_weight_lbs": 3.5,
+      "pin_diameter": "0.154",
+      "matched_hammer_included": true,
+      "material": "tool steel"
+    }
+  },
+  {
+    "id": "larue-mbts-trigger",
+    "slot_id": "trigger",
+    "name": "MBT-2S Two Stage Trigger",
+    "brand": "LaRue Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "two-stage",
+      "pull_weight_lbs": 4.5,
+      "pin_diameter": "0.154",
+      "matched_hammer_included": true,
+      "material": "tool steel"
+    }
+  },
+  {
+    "id": "mil-spec-trigger",
+    "slot_id": "trigger",
+    "name": "Mil-Spec Trigger",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "single-stage",
+      "pull_weight_lbs": 6.5,
+      "pin_diameter": "0.154",
+      "matched_hammer_included": true,
+      "material": "tool steel"
+    }
+  },
+  {
+    "id": "elftmann-se-trigger",
+    "slot_id": "trigger",
+    "name": "SE Trigger (Adjustable)",
+    "brand": "Elftmann Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "single-stage",
+      "pull_weight_lbs": 3.0,
+      "pin_diameter": "0.154",
+      "matched_hammer_included": true,
+      "material": "tool steel"
+    }
+  },
+  {
+    "id": "aero-enhanced-polished-trigger",
+    "slot_id": "trigger",
+    "name": "Enhanced Polished Trigger Group",
+    "brand": "Aero Precision",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "single-stage",
+      "pull_weight_lbs": 5.5,
+      "pin_diameter": "0.154",
+      "matched_hammer_included": true,
+      "material": "tool steel"
+    }
+  },
+  {
+    "id": "timney-ar-calvin-elite",
+    "slot_id": "trigger",
+    "name": "Calvin Elite Trigger",
+    "brand": "Timney",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "single-stage",
+      "pull_weight_lbs": 1.5,
+      "pin_diameter": "0.154",
+      "matched_hammer_included": true,
+      "material": "tool steel"
+    }
+  },
+  {
+    "id": "bcm-polished-trigger",
+    "slot_id": "trigger",
+    "name": "PNT Trigger Group (Polished)",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "single-stage",
+      "pull_weight_lbs": 5.5,
+      "pin_diameter": "0.154",
+      "matched_hammer_included": true,
+      "material": "tool steel"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "brownells-forward-assist",
+    "slot_id": "forward-assist",
+    "name": "Forward Assist Assembly",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "steel",
+      "finish": "phosphate",
+      "type": "standard"
+    }
+  },
+  {
+    "id": "aero-forward-assist",
+    "slot_id": "forward-assist",
+    "name": "Forward Assist Assembly",
+    "brand": "Aero Precision",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "steel",
+      "finish": "phosphate",
+      "type": "standard"
+    }
+  },
+  {
+    "id": "bcm-forward-assist",
+    "slot_id": "forward-assist",
+    "name": "Forward Assist Assembly",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "steel",
+      "finish": "phosphate",
+      "type": "standard"
+    }
+  }
+]

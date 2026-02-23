@@ -1,0 +1,130 @@
+[
+  {
+    "id": "magpul-moe-grip",
+    "slot_id": "pistol-grip",
+    "name": "MOE Grip",
+    "brand": "Magpul",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "angle": "standard",
+      "material": "polymer",
+      "texture": "textured",
+      "fits_mil_spec": true
+    }
+  },
+  {
+    "id": "magpul-moe-k2-grip",
+    "slot_id": "pistol-grip",
+    "name": "MOE K2 Grip",
+    "brand": "Magpul",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "angle": "vertical",
+      "material": "polymer",
+      "texture": "textured",
+      "fits_mil_spec": true
+    }
+  },
+  {
+    "id": "magpul-rpk-grip",
+    "slot_id": "pistol-grip",
+    "name": "MOE-K2+ Grip",
+    "brand": "Magpul",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "angle": "standard",
+      "material": "polymer",
+      "texture": "aggressive-textured",
+      "fits_mil_spec": true
+    }
+  },
+  {
+    "id": "bcm-gunfighter-grip-mod2",
+    "slot_id": "pistol-grip",
+    "name": "Gunfighter Grip Mod 2",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "angle": "standard",
+      "material": "polymer",
+      "texture": "textured",
+      "fits_mil_spec": true
+    }
+  },
+  {
+    "id": "a2-standard-grip",
+    "slot_id": "pistol-grip",
+    "name": "A2 Pistol Grip",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "angle": "standard",
+      "material": "polymer",
+      "texture": "ribbed",
+      "fits_mil_spec": true
+    }
+  },
+  {
+    "id": "ergo-grip-sure",
+    "slot_id": "pistol-grip",
+    "name": "Sure Grip Deluxe",
+    "brand": "Ergo Grips",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "angle": "ergonomic",
+      "material": "rubber-overmolded",
+      "texture": "aggressive-textured",
+      "fits_mil_spec": true
+    }
+  },
+  {
+    "id": "strike-industries-enhanced-grip",
+    "slot_id": "pistol-grip",
+    "name": "Enhanced Pistol Grip (EPG)",
+    "brand": "Strike Industries",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "angle": "standard",
+      "material": "polymer",
+      "texture": "textured",
+      "fits_mil_spec": true
+    }
+  },
+  {
+    "id": "hogue-ar15-grip",
+    "slot_id": "pistol-grip",
+    "name": "AR-15 Rubber OverMolded Grip",
+    "brand": "Hogue",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "angle": "standard",
+      "material": "rubber-overmolded",
+      "texture": "rubber",
+      "fits_mil_spec": true
+    }
+  }
+]

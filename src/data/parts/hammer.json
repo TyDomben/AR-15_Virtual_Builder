@@ -1,0 +1,47 @@
+[
+  {
+    "id": "mil-spec-hammer",
+    "slot_id": "hammer",
+    "name": "Mil-Spec Hammer",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "tool steel",
+      "finish": "phosphate",
+      "pin_diameter": "0.154"
+    }
+  },
+  {
+    "id": "geissele-super-hammer",
+    "slot_id": "hammer",
+    "name": "Super Hammer (matched to SSF trigger)",
+    "brand": "Geissele Automatics",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "tool steel",
+      "finish": "phosphate",
+      "pin_diameter": "0.154"
+    }
+  },
+  {
+    "id": "larue-mbt2s-hammer",
+    "slot_id": "hammer",
+    "name": "MBT-2S Hammer",
+    "brand": "LaRue Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "tool steel",
+      "finish": "phosphate",
+      "pin_diameter": "0.154"
+    }
+  }
+]

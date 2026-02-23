@@ -1,0 +1,87 @@
+[
+  {
+    "id": "sb-tactical-sba3",
+    "slot_id": "pistol-brace",
+    "name": "SBA3 Adjustable Pistol Brace",
+    "brand": "SB Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "tube_spec": "mil-spec",
+      "adjustable": true,
+      "positions": 5,
+      "material": "polymer",
+      "has_qd_socket": false
+    }
+  },
+  {
+    "id": "sb-tactical-sba4",
+    "slot_id": "pistol-brace",
+    "name": "SBA4 Adjustable Pistol Brace",
+    "brand": "SB Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "tube_spec": "mil-spec",
+      "adjustable": true,
+      "positions": 5,
+      "material": "polymer",
+      "has_qd_socket": true
+    }
+  },
+  {
+    "id": "sb-tactical-sbtevo",
+    "slot_id": "pistol-brace",
+    "name": "SBTEVO-G2 Pistol Stabilizing Brace",
+    "brand": "SB Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "tube_spec": "pistol",
+      "adjustable": false,
+      "positions": 1,
+      "material": "polymer",
+      "has_qd_socket": false
+    }
+  },
+  {
+    "id": "sig-pcb-brace",
+    "slot_id": "pistol-brace",
+    "name": "PCB Folding Pistol Brace",
+    "brand": "SB Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "tube_spec": "pistol",
+      "adjustable": false,
+      "positions": 1,
+      "material": "polymer",
+      "has_qd_socket": false
+    }
+  },
+  {
+    "id": "law-tactical-folding-stock-adapter",
+    "slot_id": "pistol-brace",
+    "name": "Folding Stock Adapter Gen 3-M",
+    "brand": "Law Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "tube_spec": "mil-spec",
+      "adjustable": false,
+      "positions": 1,
+      "material": "aluminum",
+      "has_qd_socket": false
+    }
+  }
+]

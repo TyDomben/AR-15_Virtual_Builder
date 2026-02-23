@@ -1,0 +1,82 @@
+[
+  {
+    "id": "surefire-scout-light-m300",
+    "slot_id": "light-laser",
+    "name": "Scout Light Pro M300 (M-LOK)",
+    "brand": "SureFire",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "light",
+      "mount_type": "M-LOK",
+      "lumens": 1500,
+      "battery": "CR123A"
+    }
+  },
+  {
+    "id": "streamlight-protac-rail-mount-hl-x",
+    "slot_id": "light-laser",
+    "name": "ProTac Rail Mount HL-X",
+    "brand": "Streamlight",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "light",
+      "mount_type": "Picatinny",
+      "lumens": 1000,
+      "battery": "CR123A"
+    }
+  },
+  {
+    "id": "cloud-defensive-owl",
+    "slot_id": "light-laser",
+    "name": "OWL Optimized Weapon Light (M-LOK)",
+    "brand": "Cloud Defensive",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "light",
+      "mount_type": "M-LOK",
+      "lumens": 1250,
+      "battery": "18650"
+    }
+  },
+  {
+    "id": "modlite-plhv2-mlok",
+    "slot_id": "light-laser",
+    "name": "PLHv2 Weapon Light (M-LOK)",
+    "brand": "Modlite Systems",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "light",
+      "mount_type": "M-LOK",
+      "lumens": 1350,
+      "battery": "18650"
+    }
+  },
+  {
+    "id": "steiner-dbal-a3",
+    "slot_id": "light-laser",
+    "name": "DBAL-A3 Dual Beam Aiming Laser (Picatinny)",
+    "brand": "Steiner",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "laser-combo",
+      "mount_type": "Picatinny",
+      "lumens": 500,
+      "battery": "CR123A"
+    }
+  }
+]

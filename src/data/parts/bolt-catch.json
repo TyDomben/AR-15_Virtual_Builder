@@ -1,0 +1,50 @@
+[
+  {
+    "id": "mil-spec-bolt-catch",
+    "slot_id": "bolt-catch",
+    "name": "Mil-Spec Bolt Catch Assembly",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "standard",
+      "material": "steel",
+      "finish": "phosphate",
+      "enhanced": false
+    }
+  },
+  {
+    "id": "phase5-ebcv2-bolt-catch",
+    "slot_id": "bolt-catch",
+    "name": "Extended Bolt Catch V2",
+    "brand": "Phase 5 Weapon Systems",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "extended",
+      "material": "steel",
+      "finish": "nitride",
+      "enhanced": true
+    }
+  },
+  {
+    "id": "bcm-enhanced-bolt-catch",
+    "slot_id": "bolt-catch",
+    "name": "Enhanced Bolt Catch",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "enhanced",
+      "material": "steel",
+      "finish": "phosphate",
+      "enhanced": true
+    }
+  }
+]

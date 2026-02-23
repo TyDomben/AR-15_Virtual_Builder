@@ -1,0 +1,137 @@
+[
+  {
+    "id": "brownells-pistol-gas-tube",
+    "slot_id": "gas-tube",
+    "name": "Pistol-Length Gas Tube",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "length": "pistol",
+      "material": "stainless steel",
+      "finish": "stainless"
+    }
+  },
+  {
+    "id": "brownells-carbine-gas-tube",
+    "slot_id": "gas-tube",
+    "name": "Carbine-Length Gas Tube",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "length": "carbine",
+      "material": "stainless steel",
+      "finish": "stainless"
+    }
+  },
+  {
+    "id": "brownells-midlength-gas-tube",
+    "slot_id": "gas-tube",
+    "name": "Mid-Length Gas Tube",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "length": "mid-length",
+      "material": "stainless steel",
+      "finish": "stainless"
+    }
+  },
+  {
+    "id": "brownells-rifle-gas-tube",
+    "slot_id": "gas-tube",
+    "name": "Rifle-Length Gas Tube",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "length": "rifle",
+      "material": "stainless steel",
+      "finish": "stainless"
+    }
+  },
+  {
+    "id": "bcm-midlength-gas-tube",
+    "slot_id": "gas-tube",
+    "name": "Mid-Length Gas Tube",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "length": "mid-length",
+      "material": "stainless steel",
+      "finish": "stainless"
+    }
+  },
+  {
+    "id": "bcm-carbine-gas-tube",
+    "slot_id": "gas-tube",
+    "name": "Carbine-Length Gas Tube",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "length": "carbine",
+      "material": "stainless steel",
+      "finish": "stainless"
+    }
+  },
+  {
+    "id": "spikes-midlength-gas-tube",
+    "slot_id": "gas-tube",
+    "name": "Mid-Length Gas Tube",
+    "brand": "Spike's Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "length": "mid-length",
+      "material": "stainless steel",
+      "finish": "stainless"
+    }
+  },
+  {
+    "id": "spikes-rifle-gas-tube",
+    "slot_id": "gas-tube",
+    "name": "Rifle-Length Gas Tube",
+    "brand": "Spike's Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "length": "rifle",
+      "material": "stainless steel",
+      "finish": "stainless"
+    }
+  },
+  {
+    "id": "spikes-pistol-gas-tube",
+    "slot_id": "gas-tube",
+    "name": "Pistol-Length Gas Tube",
+    "brand": "Spike's Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "length": "pistol",
+      "material": "stainless steel",
+      "finish": "stainless"
+    }
+  }
+]

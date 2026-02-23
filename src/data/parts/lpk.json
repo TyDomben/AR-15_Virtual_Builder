@@ -1,0 +1,70 @@
+[
+  {
+    "id": "bcm-lpk",
+    "slot_id": "lpk",
+    "name": "Lower Parts Kit",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "trigger_type": "mil-spec",
+      "pin_diameter": "0.154",
+      "includes_trigger_guard": false,
+      "includes_grip_screw": true,
+      "safety_type": "standard-90"
+    }
+  },
+  {
+    "id": "aero-lpk",
+    "slot_id": "lpk",
+    "name": "Lower Parts Kit",
+    "brand": "Aero Precision",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "trigger_type": "mil-spec",
+      "pin_diameter": "0.154",
+      "includes_trigger_guard": true,
+      "includes_grip_screw": true,
+      "safety_type": "standard-90"
+    }
+  },
+  {
+    "id": "brownells-lpk-milspec",
+    "slot_id": "lpk",
+    "name": "AR-15 Lower Parts Kit (Mil-Spec)",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "trigger_type": "mil-spec",
+      "pin_diameter": "0.154",
+      "includes_trigger_guard": true,
+      "includes_grip_screw": true,
+      "safety_type": "standard-90"
+    }
+  },
+  {
+    "id": "cmmg-lpk-milspec",
+    "slot_id": "lpk",
+    "name": "Lower Parts Kit (Mil-Spec)",
+    "brand": "CMMG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "trigger_type": "mil-spec",
+      "pin_diameter": "0.154",
+      "includes_trigger_guard": true,
+      "includes_grip_screw": true,
+      "safety_type": "standard-90"
+    }
+  }
+]

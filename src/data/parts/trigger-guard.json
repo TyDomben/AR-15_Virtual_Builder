@@ -1,0 +1,62 @@
+[
+  {
+    "id": "magpul-moe-trigger-guard",
+    "slot_id": "trigger-guard",
+    "name": "Enhanced Trigger Guard",
+    "brand": "Magpul",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "polymer",
+      "enhanced": true,
+      "fits_mil_spec": true
+    }
+  },
+  {
+    "id": "standard-mil-spec-trigger-guard",
+    "slot_id": "trigger-guard",
+    "name": "Mil-Spec Trigger Guard",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "steel",
+      "enhanced": false,
+      "fits_mil_spec": true
+    }
+  },
+  {
+    "id": "aero-enhanced-trigger-guard",
+    "slot_id": "trigger-guard",
+    "name": "Enhanced Trigger Guard",
+    "brand": "Aero Precision",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "aluminum",
+      "enhanced": true,
+      "fits_mil_spec": true
+    }
+  },
+  {
+    "id": "bcm-trigger-guard",
+    "slot_id": "trigger-guard",
+    "name": "Trigger Guard",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "polymer",
+      "enhanced": true,
+      "fits_mil_spec": true
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "brownells-dust-cover",
+    "slot_id": "dust-cover",
+    "name": "Ejection Port Cover Assembly",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "steel",
+      "finish": "phosphate",
+      "type": "standard"
+    }
+  },
+  {
+    "id": "aero-dust-cover",
+    "slot_id": "dust-cover",
+    "name": "Ejection Port Cover Assembly",
+    "brand": "Aero Precision",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "material": "steel",
+      "finish": "phosphate",
+      "type": "standard"
+    }
+  }
+]

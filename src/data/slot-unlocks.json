@@ -1,0 +1,65 @@
+[
+  {
+    "id": "barrel-threads-muzzle-device",
+    "trigger_slot": "barrel",
+    "trigger_attribute": "threaded",
+    "trigger_operator": "eq",
+    "trigger_value": "true",
+    "unlocks_slot": "muzzle-device",
+    "description": "Threaded barrel unlocks muzzle device slot"
+  },
+  {
+    "id": "upper-forward-assist-port",
+    "trigger_slot": "upper-receiver",
+    "trigger_attribute": "has_forward_assist_port",
+    "trigger_operator": "eq",
+    "trigger_value": "true",
+    "unlocks_slot": "forward-assist",
+    "description": "Upper with forward assist port unlocks forward assist slot"
+  },
+  {
+    "id": "upper-dust-cover-port",
+    "trigger_slot": "upper-receiver",
+    "trigger_attribute": "has_dust_cover_port",
+    "trigger_operator": "eq",
+    "trigger_value": "true",
+    "unlocks_slot": "dust-cover",
+    "description": "Upper with dust cover port unlocks dust cover slot"
+  },
+  {
+    "id": "lower-integral-trigger-guard-hides",
+    "trigger_slot": "lower-receiver",
+    "trigger_attribute": "integral_trigger_guard",
+    "trigger_operator": "eq",
+    "trigger_value": "false",
+    "unlocks_slot": "trigger-guard",
+    "description": "Lower without integral trigger guard shows trigger guard slot"
+  },
+  {
+    "id": "handguard-accessory-rail-foregrip",
+    "trigger_slot": "handguard",
+    "trigger_attribute": "has_accessory_rail",
+    "trigger_operator": "eq",
+    "trigger_value": "true",
+    "unlocks_slot": "foregrip",
+    "description": "Handguard with accessory rail unlocks foregrip slot"
+  },
+  {
+    "id": "handguard-accessory-rail-light",
+    "trigger_slot": "handguard",
+    "trigger_attribute": "has_accessory_rail",
+    "trigger_operator": "eq",
+    "trigger_value": "true",
+    "unlocks_slot": "light-laser",
+    "description": "Handguard with accessory rail unlocks light/laser slot"
+  },
+  {
+    "id": "handguard-accessory-rail-bipod",
+    "trigger_slot": "handguard",
+    "trigger_attribute": "has_accessory_rail",
+    "trigger_operator": "eq",
+    "trigger_value": "true",
+    "unlocks_slot": "bipod",
+    "description": "Handguard with accessory rail unlocks bipod slot"
+  }
+]

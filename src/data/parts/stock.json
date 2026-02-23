@@ -1,0 +1,146 @@
+[
+  {
+    "id": "magpul-moe-sl-stock-milspec",
+    "slot_id": "stock",
+    "name": "MOE SL Carbine Stock (Mil-Spec)",
+    "brand": "Magpul",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "tube_spec": "mil-spec",
+      "adjustable": true,
+      "positions": 6,
+      "material": "polymer",
+      "has_qd_socket": false,
+      "folding": false
+    }
+  },
+  {
+    "id": "magpul-moe-sl-s-stock-milspec",
+    "slot_id": "stock",
+    "name": "MOE SL-S Carbine Stock (Mil-Spec)",
+    "brand": "Magpul",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "tube_spec": "mil-spec",
+      "adjustable": true,
+      "positions": 6,
+      "material": "polymer",
+      "has_qd_socket": true,
+      "folding": false
+    }
+  },
+  {
+    "id": "magpul-ctr-stock-milspec",
+    "slot_id": "stock",
+    "name": "CTR Carbine Stock (Mil-Spec)",
+    "brand": "Magpul",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "tube_spec": "mil-spec",
+      "adjustable": true,
+      "positions": 6,
+      "material": "polymer",
+      "has_qd_socket": false,
+      "folding": false
+    }
+  },
+  {
+    "id": "magpul-acs-l-stock-milspec",
+    "slot_id": "stock",
+    "name": "ACS-L Carbine Stock (Mil-Spec)",
+    "brand": "Magpul",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "tube_spec": "mil-spec",
+      "adjustable": true,
+      "positions": 6,
+      "material": "polymer",
+      "has_qd_socket": true,
+      "folding": false
+    }
+  },
+  {
+    "id": "bcm-gunfighter-mod0-stock",
+    "slot_id": "stock",
+    "name": "Gunfighter Stock Mod 0 (Mil-Spec)",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "tube_spec": "mil-spec",
+      "adjustable": true,
+      "positions": 6,
+      "material": "polymer",
+      "has_qd_socket": false,
+      "folding": false
+    }
+  },
+  {
+    "id": "vltor-imod-milspec",
+    "slot_id": "stock",
+    "name": "IMOD Buttstock (Mil-Spec)",
+    "brand": "VLTOR",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "tube_spec": "mil-spec",
+      "adjustable": true,
+      "positions": 5,
+      "material": "polymer",
+      "has_qd_socket": true,
+      "folding": false
+    }
+  },
+  {
+    "id": "luth-ar-mba-1-milspec",
+    "slot_id": "stock",
+    "name": "MBA-1 Buttstock (Mil-Spec)",
+    "brand": "Luth-AR",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "tube_spec": "mil-spec",
+      "adjustable": true,
+      "positions": 6,
+      "material": "polymer",
+      "has_qd_socket": true,
+      "folding": false
+    }
+  },
+  {
+    "id": "a2-fixed-stock",
+    "slot_id": "stock",
+    "name": "A2 Fixed Buttstock",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "tube_spec": "rifle",
+      "adjustable": false,
+      "positions": 1,
+      "material": "polymer",
+      "has_qd_socket": false,
+      "folding": false
+    }
+  }
+]

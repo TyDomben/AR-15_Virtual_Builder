@@ -1,0 +1,70 @@
+[
+  {
+    "id": "atlas-v8-bipod-picatinny",
+    "slot_id": "bipod",
+    "name": "BT10-NC V8 Bipod (Picatinny)",
+    "brand": "Atlas",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "mount_type": "Picatinny",
+      "legs": "adjustable",
+      "material": "aluminum",
+      "min_height_inches": 4.75,
+      "max_height_inches": 9
+    }
+  },
+  {
+    "id": "harris-bipod-1a2-br",
+    "slot_id": "bipod",
+    "name": "Model 1A2-BR Bipod (Sling Swivel)",
+    "brand": "Harris Engineering",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "mount_type": "sling-swivel",
+      "legs": "adjustable",
+      "material": "aluminum + steel",
+      "min_height_inches": 6,
+      "max_height_inches": 9
+    }
+  },
+  {
+    "id": "magpul-bipod-mlok",
+    "slot_id": "bipod",
+    "name": "Bipod (M-LOK)",
+    "brand": "Magpul",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "mount_type": "M-LOK",
+      "legs": "adjustable",
+      "material": "aluminum",
+      "min_height_inches": 5.3,
+      "max_height_inches": 8.3
+    }
+  },
+  {
+    "id": "accu-shot-atlas-picatinny",
+    "slot_id": "bipod",
+    "name": "AccuShot Recon Bipod (Picatinny)",
+    "brand": "B&T Industries",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "mount_type": "Picatinny",
+      "legs": "adjustable",
+      "material": "aluminum",
+      "min_height_inches": 5,
+      "max_height_inches": 9
+    }
+  }
+]

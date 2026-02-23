@@ -1,0 +1,104 @@
+[
+  {
+    "id": "aero-buffer-tube-milspec",
+    "slot_id": "buffer-tube",
+    "name": "Carbine Buffer Tube (Mil-Spec)",
+    "brand": "Aero Precision",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "spec": "mil-spec",
+      "diameter_inches": 1.148,
+      "material": "7075-T6 aluminum",
+      "finish": "hardcoat anodized",
+      "length": "carbine"
+    }
+  },
+  {
+    "id": "bcm-buffer-tube-milspec",
+    "slot_id": "buffer-tube",
+    "name": "Carbine Buffer Tube (Mil-Spec)",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "spec": "mil-spec",
+      "diameter_inches": 1.148,
+      "material": "7075-T6 aluminum",
+      "finish": "hardcoat anodized",
+      "length": "carbine"
+    }
+  },
+  {
+    "id": "vltor-a5-buffer-tube",
+    "slot_id": "buffer-tube",
+    "name": "A5 Buffer Tube System",
+    "brand": "VLTOR",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "spec": "mil-spec",
+      "diameter_inches": 1.148,
+      "material": "7075-T6 aluminum",
+      "finish": "hardcoat anodized",
+      "length": "rifle"
+    }
+  },
+  {
+    "id": "commercial-buffer-tube",
+    "slot_id": "buffer-tube",
+    "name": "Carbine Buffer Tube (Commercial)",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "spec": "commercial",
+      "diameter_inches": 1.168,
+      "material": "6061 aluminum",
+      "finish": "anodized",
+      "length": "carbine"
+    }
+  },
+  {
+    "id": "pistol-buffer-tube",
+    "slot_id": "buffer-tube",
+    "name": "Pistol Buffer Tube (No Stock)",
+    "brand": "Palmetto State Armory",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "spec": "pistol",
+      "diameter_inches": 1.148,
+      "material": "7075-T6 aluminum",
+      "finish": "hardcoat anodized",
+      "length": "pistol"
+    }
+  },
+  {
+    "id": "sb-tactical-pistol-buffer-tube",
+    "slot_id": "buffer-tube",
+    "name": "Pistol Buffer Tube for SB Braces",
+    "brand": "SB Tactical",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "spec": "pistol",
+      "diameter_inches": 1.148,
+      "material": "7075-T6 aluminum",
+      "finish": "hardcoat anodized",
+      "length": "pistol"
+    }
+  }
+]

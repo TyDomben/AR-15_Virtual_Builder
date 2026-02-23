@@ -1,0 +1,62 @@
+[
+  {
+    "id": "norgon-ambi-mag-release",
+    "slot_id": "magazine-release",
+    "name": "Ambi Catch Magazine Release",
+    "brand": "Norgon",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "ambidextrous",
+      "material": "aluminum",
+      "finish": "anodized"
+    }
+  },
+  {
+    "id": "mil-spec-mag-release",
+    "slot_id": "magazine-release",
+    "name": "Mil-Spec Magazine Release Button",
+    "brand": "Brownells",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "standard",
+      "material": "steel",
+      "finish": "phosphate"
+    }
+  },
+  {
+    "id": "phase5-ebrv2-mag-release",
+    "slot_id": "magazine-release",
+    "name": "Extended Button Release V2",
+    "brand": "Phase 5 Weapon Systems",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "extended",
+      "material": "aluminum",
+      "finish": "anodized"
+    }
+  },
+  {
+    "id": "bcm-ambi-mag-catch",
+    "slot_id": "magazine-release",
+    "name": "Ambidextrous Magazine Catch",
+    "brand": "Bravo Company MFG",
+    "image_url": null,
+    "is_bundle": false,
+    "bundle_slots": null,
+    "comes_with": null,
+    "attributes": {
+      "type": "ambidextrous",
+      "material": "aluminum",
+      "finish": "anodized"
+    }
+  }
+]
