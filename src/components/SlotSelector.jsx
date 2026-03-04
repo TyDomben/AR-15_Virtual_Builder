@@ -262,6 +262,7 @@ function buildAttrSummary(attrs) {
   if (attrs.caliber) parts.push(attrs.caliber);
   if (attrs.capacity) parts.push(`${attrs.capacity} rd`);
   if (attrs.length_inches) parts.push(`${attrs.length_inches}"`);
+  if (attrs.length && typeof attrs.length === 'string') parts.push(attrs.length);
   if (attrs.gas_system) {
     const gs = attrs.gas_system;
     parts.push(gs.includes('length') ? gs : `${gs}-length`);
